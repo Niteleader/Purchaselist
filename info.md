@@ -55,7 +55,7 @@ choices in these polls depend heavily on what's enabled in the mod.
 
 ## What Are Coins?
 
-Coins are the mod's currency. You can view your balance by using the `{{ bal }}` command. 
+Coins are the mod's currency. You can view your balance by using the ( !bal ) command. 
 
 {% if utils == true %}
 You'll notice the balance command may have some new emojis. If that's the case, here is an overview
@@ -71,7 +71,7 @@ of the emojis as follows:
 
 {%- if lootboxes == true -%}
 You'll also notice that you'll get a message from the bot about a lootbox. You can open this lootbox
-by using the `!openlootbox` command, as well as check the number of lootboxes you have with `!lootboxes`.
+by using the (!openlootbox command), as well as check the number of lootboxes you have with (!lootboxes).
 You'll always get a new lootbox everyday.
 {%- endif -%}
 
@@ -87,9 +87,9 @@ negative events get spread out more so the colony can recover.
 ## How Do I Use Twitch Toolkit?
 
 You can use Twitch Toolkit in a number of ways -- the most prominent way is through its
-[commands]({{- "/commands" | relative_url -}}). The more important command is the `{{- buy -}}`
+[commands]({{- "/commands" | relative_url -}}). The more important command is the ( buy )
 command, which is the mods entry point into purchasing things from the store. Other notable commands
-are the `!mypawn` commands, which allow you see various information about your pawn. We won't cover
+are the (!mypawn)) commands, which allow you see various information about your pawn. We won't cover
 every command here, but most commands should generally be self-descriptive or have a description of
 what they do on the [commands]({{- "/commands" | relative_url -}}) page.
 
@@ -102,5 +102,5 @@ what they do on the [commands]({{- "/commands" | relative_url -}}) page.
 allows viewers to directly control their pawns, and even view a number of information about your pawn in
 a graphical way. It also redirects some of the responses from Twitch Toolkit to its website to clean up
 chat a bit. So, if you're logged into Puppeeter and you're wondering why the bot isn't responding to you,
-you should check the `TT` tab on the website first.
+you should check the TT tab on the website first.
 {%- endif -%}
