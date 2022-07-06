@@ -87,9 +87,9 @@ negative events get spread out more so the colony can recover.
 ## How Do I Use Twitch Toolkit?
 
 You can use Twitch Toolkit in a number of ways -- the most prominent way is through its
-[commands]({{- "/commands" | relative_url -}}). The more important command is the ( buy )
+[commands]({{- "/commands" | relative_url -}}). The more important command is the ( !buy )
 command, which is the mods entry point into purchasing things from the store. Other notable commands
-are the (!mypawn)) commands, which allow you see various information about your pawn. We won't cover
+are the (!mypawn) commands, which allow you see various information about your pawn. We won't cover
 every command here, but most commands should generally be self-descriptive or have a description of
 what they do on the [commands]({{- "/commands" | relative_url -}}) page.
 
