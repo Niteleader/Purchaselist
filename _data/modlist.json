@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "author": "Andreas Pardeike",
     "name": "Harmony",
@@ -6,34 +6,16 @@
     "version": "1.3.0.0"
   },
   {
-    "author": "Samboy063",
-    "name": "BetterLoading",
-    "steamId": "1999454301",
-    "version": "3.3.0.0"
-  },
-  {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
-  },
-  {
-    "author": "AUTOMATIC",
-    "name": "High quality textures",
-    "steamId": "1676969930",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.6.6"
-  },
-  {
     "author": "Trinity",
     "name": "RuntimeGC [1.3]",
     "steamId": "2559582557",
     "version": "0.1.0.0"
+  },
+  {
+    "author": "Samboy063",
+    "name": "BetterLoading",
+    "steamId": "1999454301",
+    "version": "3.3.0.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -48,14 +30,8 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Neronix17",
-    "name": "[O21] Toolbox",
-    "steamId": "1660622094",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Jaxe",
-    "name": "RimHUD",
+    "author": "Orion",
+    "name": "Hospitality",
     "steamId": null,
     "version": null
   },
@@ -72,14 +48,80 @@
     "version": "2.5.7.6"
   },
   {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.6.6"
+  },
+  {
     "author": "Kure",
     "name": "Kure's Rimworld of Magic Class Expansion Pack",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Orion",
-    "name": "Hospitality",
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.3.842.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Toolbox",
+    "steamId": "1660622094",
+    "version": "1.0.0"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jaxe",
+    "name": "RimHUD",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
+    "steamId": "1718525787",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.2.0.7"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.3.2.0"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "RimSaves",
+    "steamId": "1713367505",
+    "version": "2020.0.1.13"
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
     "steamId": null,
     "version": null
   },
@@ -90,52 +132,16 @@
     "version": "1.0.06"
   },
   {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.3.842.0"
-  },
-  {
-    "author": "EdB",
-    "name": "EdB Prepare Carefully",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Almost There!",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Dubwise",
     "name": "Dubs Mint Minimap",
     "steamId": "1662119905",
     "version": "1.2.7365"
   },
   {
-    "author": "aRandomKiwi",
-    "name": "RimSaves",
-    "steamId": "1713367505",
-    "version": "2020.0.1.13"
-  },
-  {
-    "author": "Jaxe",
-    "name": "Interaction Bubbles",
-    "steamId": "1516158345",
-    "version": "2.4.0.0"
-  },
-  {
     "author": "Fluffy",
     "name": "Blueprints",
     "steamId": "708455313",
     "version": "2.17.133"
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Camera+",
-    "steamId": "867467808",
-    "version": "2.3.2.0"
   },
   {
     "author": "Roolo and Updated by Ogliss",
@@ -156,16 +162,28 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Bionic icons",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Mehni",
     "name": "Numbers",
     "steamId": "1414302321",
     "version": "1.1.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kor_HellCross",
+    "name": "The GiantRace",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Sandy",
@@ -180,22 +198,10 @@
     "version": "1.3.0.0"
   },
   {
-    "author": "telardo",
-    "name": "DragSelect",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Path Avoid",
-    "steamId": "1180719857",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Colony Manager",
-    "steamId": "715565262",
-    "version": "4.33.649"
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": "2134308519",
+    "version": "1.3.7862.41411"
   },
   {
     "author": "FrozenSnowFox",
@@ -234,12 +240,6 @@
     "version": null
   },
   {
-    "author": "Garwel",
-    "name": "Destroy Item",
-    "steamId": "2423311270",
-    "version": "1.0.4.0"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "Allow Tool",
     "steamId": null,
@@ -250,6 +250,12 @@
     "name": "Wall Light",
     "steamId": "1423699208",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Mehni",
@@ -270,64 +276,16 @@
     "version": null
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Show Hair With Hats or Hide All Hats",
-    "steamId": "1180826364",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - WIP",
-    "steamId": "1635901197",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "InsertKey",
     "name": "ItemListSelector",
     "steamId": null,
     "version": null
   },
   {
-    "author": "pureMJ",
-    "name": "Vanilla Fix: Haul After Slaughter",
-    "steamId": "2801452324",
-    "version": "0.1.0"
-  },
-  {
     "author": "telardo",
     "name": "No Laggy Bed",
     "steamId": "2790250834",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
-    "steamId": "1718525787",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "TwitchToolkit - Lootboxes",
-    "steamId": "1720021578",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.2.0.7"
-  },
-  {
-    "author": "saschahi",
-    "name": "ToolkitAddon - More Stuff",
-    "steamId": "2594931182",
-    "version": "1.1.9"
   },
   {
     "author": "Sam",
@@ -348,34 +306,10 @@
     "version": null
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] RimFridge",
-    "steamId": "1180721235",
-    "version": "1.2.1.0"
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jecrell and lbmaian",
-    "name": "Doors Expanded",
-    "steamId": "1316188771",
-    "version": "1.4.0.2"
-  },
-  {
     "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
     "version": "1.1.0.0"
-  },
-  {
-    "author": "Techmago",
-    "name": "Boots and Stuff",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Rainbeau Flambe (original) & Kiame Vivacity",
@@ -390,26 +324,8 @@
     "version": "1.0.7862.37403"
   },
   {
-    "author": "Nals",
-    "name": "[NL] Compatible Body -WIP",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Telkir",
     "name": "[T] MoreFloors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "avilmask",
-    "name": "Common Sense",
-    "steamId": "1561769193",
-    "version": "1.1.48"
-  },
-  {
-    "author": "AtomicRavioli",
-    "name": "Crystalloid",
     "steamId": null,
     "version": null
   },
@@ -420,70 +336,28 @@
     "version": null
   },
   {
-    "author": "Uuugggg",
-    "name": "Build From Inventory",
-    "steamId": "1691419062",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "K",
-    "name": "GlitterNet",
-    "steamId": "1725544583",
-    "version": "0.5.0.0"
-  },
-  {
-    "author": "K",
-    "name": "CyberNet",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mlie",
-    "name": "Less Stupid Romance Attempt (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neceros",
-    "name": "Traders Have Money",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ben",
-    "name": "Automatic Night Owl",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Gouda quiche",
-    "name": "Blood and stains",
-    "steamId": "2075683887",
-    "version": "1.0.7875.29378"
-  },
-  {
     "author": "Fluffy",
-    "name": "Music Manager",
-    "steamId": "2229205672",
-    "version": "1.2.196"
+    "name": "Relations Tab",
+    "steamId": "709317151",
+    "version": "2.6.72"
   },
   {
-    "author": "JisPichi",
-    "name": "Perfect Pathfinding",
-    "steamId": "2341486509",
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids",
+    "steamId": "1541064015",
     "version": "1.0.0.0"
   },
   {
-    "author": "Turnovus",
-    "name": "Packs Are Not Belts",
-    "steamId": "2509511179",
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Qarsoon Meel",
-    "name": "Dreamer's Dreams",
-    "steamId": "2514986353",
-    "version": "2.3.3"
   },
   {
     "author": "Nals",
@@ -492,8 +366,182 @@
     "version": null
   },
   {
-    "author": "Erok",
-    "name": "Lanterns",
+    "author": "saschahi",
+    "name": "ToolkitAddon - More Stuff",
+    "steamId": "2594931182",
+    "version": "1.1.9"
+  },
+  {
+    "author": "RutraNickers",
+    "name": "Facial Animation Androids Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ykara",
+    "name": "Expanded Prosthetics and Organ Engineering",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.4.91"
+  },
+  {
+    "author": "OskarPotocki,  Atlas and  Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] RimFridge",
+    "steamId": "1180721235",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "2.4.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  Trunken and  Sarg Bjornson",
+    "name": "Vanilla Armour Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Trunken",
+    "name": "Vanilla Apparel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Mod Manager",
+    "steamId": "1507748539",
+    "version": "3.8.1038"
+  },
+  {
+    "author": "Oskar Potocki,  Helixien,  Erin,  Luizi,  ISOREX and  erdelf",
+    "name": "Vanilla Textures Expanded",
+    "steamId": "2016436324",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Oskar Potocki,  XeoNovaDan and  erdelf",
+    "name": "Vanilla Hair Expanded",
+    "steamId": "1888705256",
+    "version": "1.0.3"
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.1.48"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Recipe icons",
+    "steamId": "1616643195",
+    "version": "1.0.379.0018"
+  },
+  {
+    "author": "Falconne",
+    "name": "Heat Map",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Jecrell and lbmaian",
+    "name": "Doors Expanded",
+    "steamId": "1316188771",
+    "version": "1.4.0.2"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
+  },
+  {
+    "author": "Oskar Potocki,  Taranchuk and  Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.0.0.1"
+  },
+  {
+    "author": "NotFood",
+    "name": "MendAndRecycle",
+    "steamId": "735241897",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Bionic icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Taranchuk",
+    "name": "Vanilla Social Interactions Expanded",
+    "steamId": "2439736083",
+    "version": "1.0.0.1"
+  },
+  {
+    "author": "VouLT",
+    "name": "Better Pawn Control",
+    "steamId": "1541460369",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spdskatr and  CaesarV6",
+    "name": "Damage Indicators [1.3]",
+    "steamId": "2016331497",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "MinifyEverything",
+    "steamId": "872762753",
+    "version": "1.0.8190.34986"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Better Vanilla Masking",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Linkolas",
+    "name": "Stabilize",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Vanilla Textures Expanded - Variations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Acruid",
+    "name": "Repair Workbench",
+    "steamId": "733997423",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
     "steamId": null,
     "version": null
   },
@@ -504,51 +552,45 @@
     "version": "1.4.3.0"
   },
   {
-    "author": "SirRandoo, Hodlhodl and Saschahi",
-    "name": "ToolkitExt",
-    "steamId": "2824222570",
+    "author": "fed1sPlay",
+    "name": "PawnTargetFix",
+    "steamId": "2014789938",
     "version": "1.0.0.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Relations Tab",
-    "steamId": "709317151",
-    "version": "2.6.72"
+    "author": "ssulunge",
+    "name": "FemaleBB BodyType Support",
+    "steamId": "1792668502",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Work Tab",
-    "steamId": "725219116",
-    "version": "3.21.303"
+    "author": "Gouda quiche",
+    "name": "Zoltan race",
+    "steamId": "2032477436",
+    "version": "0.15.1.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Medical Tab",
-    "steamId": "715565817",
-    "version": "3.4.91"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Animal Tab",
-    "steamId": "712141500",
-    "version": "4.7.272"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Mint Menus",
-    "steamId": "1446523594",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Paint Shop",
-    "steamId": "1579516669",
-    "version": "1.1.7359"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Defensive Positions",
+    "author": "Meng De",
+    "name": "Frieza Race",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Kikohi",
+    "name": "Forsakens",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "Rockmen race",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ssulunge",
+    "name": "Kijin Race 2.0",
+    "steamId": "1918120749",
+    "version": "1.0.0.0"
   }
 ]
