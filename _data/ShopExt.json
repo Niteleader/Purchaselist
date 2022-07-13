@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy enjoys the feeling of freedom that comes from being nude. he can handle clothing, but will be happier without it.",
@@ -50323,66 +50323,6 @@
       "degree": -1
     },
     {
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Xenophobia",
-      "name": "xenophobe",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 1
-    },
-    {
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Xenophobia",
-      "name": "xenophile",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": -1
-    },
-    {
       "description": "Timmy loves beautiful things, and really cares about how his enviroment looks.",
       "stats": [
 
@@ -52071,126 +52011,6 @@
       "addPrice": 5000,
       "removePrice": 2000,
       "degree": 0
-    },
-    {
-      "description": "Timmy has a special connection to latent psychic fields, occasionally hearing faint psychic whispers. he is more sensitive to psychic phenomenon and can meditate using Animus Crystals.",
-      "stats": [
-        "+15% psychic sensitivity"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Crystalloid",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+15% psychic sensitivity"
-        ]
-      },
-      "defName": "Attunement",
-      "name": "attunement",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 0
-    },
-    {
-      "description": "Once in a while Timmy will sleepwalk.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dreamer's Dreams",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Sleepwalker",
-      "name": "occasionalsleepwalker",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 1
-    },
-    {
-      "description": "For some unknown reason causes Timmy to do some weird things during sleep.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dreamer's Dreams",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Sleepwalker",
-      "name": "sleepwalker",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 2
-    },
-    {
-      "description": "Timmy enjoys sleepwalking almost every night. Maybe the bed is not comfortable enough?",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dreamer's Dreams",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Sleepwalker",
-      "name": "usualsleepwalker",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 2000,
-      "removePrice": 2000,
-      "degree": 3
     }
   ],
   "races": [
@@ -52214,58 +52034,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2000
-    },
-    {
-      "data": {
-        "stats": [
-          "+70.00 Mass",
-          "+50% Flammability",
-          "+$2000 Market value",
-          "+4.20 Move speed",
-          "+110% Psychic sensitivity",
-          "+75% Toxic sensitivity",
-          "+5.0% Armor - Blunt",
-          "+12.0% Armor - Sharp",
-          "+12.0K Minimum comfortable temperature",
-          "+32.0K Maximum comfortable temperature",
-          "+100% Eating speed"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Xenohuman race with crystalline skin and brains with a natural affinity for psycasting. Crystalloids have an unknown origin, with only a handful of traits that resemble anything from Earth (Despite the fact many other xenohuman races do). Inhabiting rimworlds on the edges of known space, Crystalloids are typically part of an ominous and mysterious psionic faction called the \"Collective\". Crystalloids can live for an extremely long time.",
-      "defName": "Alien_Crystalloid",
-      "enabled": true,
-      "name": "crystalloid",
-      "price": 2000
-    },
-    {
-      "data": {
-        "stats": [
-          "+70.00 Mass",
-          "+50% Flammability",
-          "+$2000 Market value",
-          "+4.78 Move speed",
-          "+105% Psychic sensitivity",
-          "+50% Toxic sensitivity",
-          "+7.0% Armor - Blunt",
-          "+20.0% Armor - Sharp",
-          "+12.0K Minimum comfortable temperature",
-          "+32.0K Maximum comfortable temperature",
-          "+115% Eating speed",
-          "+1.4 Melee hit chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Xenohuman variant race, born from Crystalloids from unknown conditions. Valkyries are a strong, combat oriented, and carnivorous all-female race with the same psionic capabilities as Crystalloids. Valkyries are hated by the Crystalloid Collective, who actively seeks to exterminate them. The ones who flee from the clutches of the Collective often find refuge in human communities.",
-      "defName": "Alien_CrystalValkyrie",
-      "enabled": true,
-      "name": "valkyrie",
-      "price": 2000
+      "price": 3000
     }
   ]
 }
