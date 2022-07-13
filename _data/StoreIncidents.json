@@ -111,11 +111,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wandererjoins",
-		"price": 50,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -306,11 +301,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "item",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "prisoner",
 		"price": 800,
 		"karmatype": "Good"
@@ -328,6 +318,11 @@
 	{
 		"abr": "torytalkervote",
 		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
@@ -441,5 +436,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 88
+	"total": 87
 }
