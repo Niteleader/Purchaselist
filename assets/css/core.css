@@ -4,18 +4,18 @@
 }
 
 .site-header a {
-    color: #ee1800;
+    color: #10ee00;
 }
 
 h1 {
-  color: #ee1800;
+  color: #1beb0c;
 }
 
 h2 {
   color: #1beb0c;
 }
 
-ul {    color: #9c2727;
+ul {    color: #1beb0c;
 }
 
 
@@ -24,7 +24,7 @@ body {
 }
 
 p {
-    color: #d90f0f;
+    color: #1beb0c;
 }
 
 .tab {
@@ -41,11 +41,11 @@ p {
     padding: 12px 12px;
     transition: 0.3s;
     font-size: 0.75em;
-    color: #ff3700;
+    color:#fff700;
 }
 
 .tab button:hover {
-    background-color:#ed0231;
+    background-color:#1beb0c;
 }
 
 .tabContent {
