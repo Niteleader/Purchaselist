@@ -52,7 +52,7 @@ p {
     display: none;
     animation: fadeEffect 320ms;
     border-top: none;
-    color: #7bff00;
+    color: #0400ff;
 }
 
 @keyframes fadeEffect {
