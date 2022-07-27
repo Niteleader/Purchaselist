@@ -4,8 +4,6 @@ layout: page
 permalink: /info
 ---
 
-</html>
-
 <link rel="stylesheet" href="{{- 'assets/css/core.css' | relative_url -}} "/>
 
 {%- assign utils = false -%}
