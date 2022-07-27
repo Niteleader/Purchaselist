@@ -88,7 +88,7 @@ table tbody tr:hover {
 
 th {
   font-size: 0.9em;
-  color: #e09000;
+  color: #0b23d9;
   border: 1px solid rgba(200,100,0,0.3);
 }
 
@@ -123,13 +123,13 @@ td.description {
 span.eventRedirect {
   cursor: pointer;
   text-decoration: underline;
-  color: #e8dd13;
+  color: #0b23d9;
 }
 span.metadata {
     font-size: 0.8em;
     padding: 0px;
     font-style: italic;
-    color: #a0a0a0;
+    color: #c71c1c;
 }
 
 @media screen and (max-width: break) {
@@ -146,7 +146,7 @@ span.metadata {
     font-size: 0.8em;
     padding: 0px;
     font-style: italic;
-    color: #a0a0a0;
+    color: #c71c1c;
   }
 }
 
@@ -163,6 +163,6 @@ span.metadata {
   span.metadata {
     font-size: 0.85em;
     font-style: italic;
-    color: #a0a0a0;
+    color: #c71c1c;
   }
 }
