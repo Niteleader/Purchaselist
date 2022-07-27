@@ -45,11 +45,11 @@ This stream uses the mod
 interactive experience. There's a lot to the mod that may seem complicated to even more experienced
 users, but this short guide will help you get the hang of things.
 
-- `$wear itemName`
-- `$equip itemName`
-- `$use itemName`
-- `$backpack itemName`
-- `$surgery itemName`
+- Do  $wear itemName to wear item,
+- Do  $equip itemName to equip item,
+- Do  $use itemName to use item,
+- Do  $backpack itemName to put items in backpack,
+- Do  $surgery itemName to queue surgery.
 
 ## What is Twitch Toolkit?
 
