@@ -37,7 +37,7 @@ permalink: /info
     {%- endif -%}
 {%- endfor -%}
 
-# Welcome
+# Hello
 
 Welcome to [{{ site.data.social.twitch }}](https://twitch.tv/{{ site.data.social.twitch }})'s stream.
 This stream uses the mod
