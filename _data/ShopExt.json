@@ -26,8 +26,8 @@
       "name": "nudist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -36,7 +36,18 @@
 
       ],
       "conflicts": [
-
+        "charismatic",
+        "verycharismatic",
+        "generous",
+        "overlygenerous",
+        "uninspiring",
+        "inspirational",
+        "veryinspirational",
+        "philanthropist",
+        "healinghands",
+        "animalfriend",
+        "lifegiver",
+        "spiritualhealer"
       ],
       "bypassLimit": false,
       "data": {
@@ -46,7 +57,18 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "charismatic",
+          "verycharismatic",
+          "generous",
+          "overlygenerous",
+          "uninspiring",
+          "inspirational",
+          "veryinspirational",
+          "philanthropist",
+          "healinghands",
+          "animalfriend",
+          "lifegiver",
+          "spiritualhealer"
         ],
         "stats": [
 
@@ -56,8 +78,8 @@
       "name": "bloodlust",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -88,8 +110,8 @@
       "name": "kind",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -98,7 +120,8 @@
 
       ],
       "conflicts": [
-
+        "philanthropist",
+        "animalfriend"
       ],
       "bypassLimit": false,
       "data": {
@@ -108,7 +131,8 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "philanthropist",
+          "animalfriend"
         ],
         "stats": [
 
@@ -118,8 +142,8 @@
       "name": "psychopath",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -148,8 +172,8 @@
       "name": "cannibal",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -190,8 +214,8 @@
       "name": "abrasive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -234,8 +258,8 @@
       "name": "toosmart",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -276,8 +300,8 @@
       "name": "brawler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -306,8 +330,8 @@
       "name": "masochist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -336,8 +360,8 @@
       "name": "nightowl",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -368,8 +392,8 @@
       "name": "greedy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -400,8 +424,8 @@
       "name": "jealous",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -434,8 +458,8 @@
       "name": "ascetic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -464,8 +488,8 @@
       "name": "gay",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 35,
-      "removePrice": 12,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -494,8 +518,8 @@
       "name": "bisexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 35,
-      "removePrice": 12,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -524,8 +548,8 @@
       "name": "asexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 35,
-      "removePrice": 12,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -534,7 +558,15 @@
 
       ],
       "conflicts": [
-
+        "charismatic",
+        "verycharismatic",
+        "bargainer",
+        "hardbargainer",
+        "naturalleader",
+        "uninspiring",
+        "inspirational",
+        "veryinspirational",
+        "magnetic"
       ],
       "bypassLimit": false,
       "data": {
@@ -544,7 +576,15 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "charismatic",
+          "verycharismatic",
+          "bargainer",
+          "hardbargainer",
+          "naturalleader",
+          "uninspiring",
+          "inspirational",
+          "veryinspirational",
+          "magnetic"
         ],
         "stats": [
 
@@ -554,8 +594,8 @@
       "name": "annoyingvoice",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -564,7 +604,11 @@
 
       ],
       "conflicts": [
-
+        "naturalleader",
+        "uninspiring",
+        "inspirational",
+        "veryinspirational",
+        "magnetic"
       ],
       "bypassLimit": false,
       "data": {
@@ -574,7 +618,11 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "naturalleader",
+          "uninspiring",
+          "inspirational",
+          "veryinspirational",
+          "magnetic"
         ],
         "stats": [
 
@@ -584,8 +632,8 @@
       "name": "creepybreathing",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -614,8 +662,8 @@
       "name": "pyromaniac",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -652,8 +700,8 @@
       "name": "wimp",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -684,8 +732,8 @@
       "name": "nimble",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -711,11 +759,11 @@
         ]
       },
       "defName": "Nimble",
-      "name": "deftlydodger",
+      "name": "nimble",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 2
     },
     {
@@ -741,11 +789,11 @@
         ]
       },
       "defName": "Nimble",
-      "name": "sluggish",
+      "name": "nimble",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": -1
     },
     {
@@ -776,8 +824,8 @@
       "name": "fastlearner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -806,8 +854,8 @@
       "name": "slowlearner",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -836,8 +884,8 @@
       "name": "undergrounder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -866,8 +914,8 @@
       "name": "bodymodder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -896,8 +944,8 @@
       "name": "bodypurist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -926,8 +974,8 @@
       "name": "misandrist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -956,8 +1004,8 @@
       "name": "misogynist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -986,8 +1034,8 @@
       "name": "greatmemory",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -1022,8 +1070,8 @@
       "name": "tough",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -1052,8 +1100,8 @@
       "name": "torturedartist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -1084,8 +1132,8 @@
       "name": "gourmand",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -1114,8 +1162,8 @@
       "name": "quicksleeper",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 0
     },
     {
@@ -1125,7 +1173,12 @@
         "-0.20 move speed"
       ],
       "conflicts": [
-
+        "actionboy",
+        "actiongirl",
+        "agile",
+        "ninja",
+        "blitz",
+        "rooted"
       ],
       "bypassLimit": false,
       "data": {
@@ -1135,7 +1188,12 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "actionboy",
+          "actiongirl",
+          "agile",
+          "ninja",
+          "blitz",
+          "rooted"
         ],
         "stats": [
           "Go frenzy inspiration disabled.",
@@ -1146,8 +1204,8 @@
       "name": "slowpoke",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": -1
     },
     {
@@ -1156,7 +1214,12 @@
         "+0.20 move speed"
       ],
       "conflicts": [
-
+        "actionboy",
+        "actiongirl",
+        "agile",
+        "ninja",
+        "blitz",
+        "rooted"
       ],
       "bypassLimit": false,
       "data": {
@@ -1166,7 +1229,12 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "actionboy",
+          "actiongirl",
+          "agile",
+          "ninja",
+          "blitz",
+          "rooted"
         ],
         "stats": [
           "+0.20 move speed"
@@ -1176,8 +1244,8 @@
       "name": "fastwalker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -1186,7 +1254,12 @@
         "+0.40 move speed"
       ],
       "conflicts": [
-
+        "actionboy",
+        "actiongirl",
+        "agile",
+        "ninja",
+        "blitz",
+        "rooted"
       ],
       "bypassLimit": false,
       "data": {
@@ -1196,7 +1269,12 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "actionboy",
+          "actiongirl",
+          "agile",
+          "ninja",
+          "blitz",
+          "rooted"
         ],
         "stats": [
           "+0.40 move speed"
@@ -1206,8 +1284,8 @@
       "name": "jogger",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 2
     },
     {
@@ -1236,8 +1314,8 @@
       "name": "chemicalfascination",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 2
     },
     {
@@ -1266,8 +1344,8 @@
       "name": "chemicalinterest",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -1298,8 +1376,8 @@
       "name": "teetotaler",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": -1
     },
     {
@@ -1328,8 +1406,8 @@
       "name": "sanguine",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 2
     },
     {
@@ -1358,8 +1436,8 @@
       "name": "optimist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -1388,8 +1466,8 @@
       "name": "pessimist",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": -1
     },
     {
@@ -1418,8 +1496,8 @@
       "name": "depressive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": -2
     },
     {
@@ -1428,7 +1506,9 @@
         "-18% mental break threshold"
       ],
       "conflicts": [
-
+        "enduring",
+        "veryenduring",
+        "toosmart"
       ],
       "bypassLimit": false,
       "data": {
@@ -1438,7 +1518,9 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "enduring",
+          "veryenduring",
+          "toosmart"
         ],
         "stats": [
           "-18% mental break threshold"
@@ -1448,8 +1530,8 @@
       "name": "iron-willed",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 2
     },
     {
@@ -1458,7 +1540,9 @@
         "-9% mental break threshold"
       ],
       "conflicts": [
-
+        "enduring",
+        "veryenduring",
+        "toosmart"
       ],
       "bypassLimit": false,
       "data": {
@@ -1468,7 +1552,9 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "enduring",
+          "veryenduring",
+          "toosmart"
         ],
         "stats": [
           "-9% mental break threshold"
@@ -1478,8 +1564,8 @@
       "name": "steadfast",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -1488,7 +1574,9 @@
         "+8% mental break threshold"
       ],
       "conflicts": [
-
+        "enduring",
+        "veryenduring",
+        "toosmart"
       ],
       "bypassLimit": false,
       "data": {
@@ -1498,7 +1586,9 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "enduring",
+          "veryenduring",
+          "toosmart"
         ],
         "stats": [
           "+8% mental break threshold"
@@ -1508,8 +1598,8 @@
       "name": "nervous",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": -1
     },
     {
@@ -1518,7 +1608,9 @@
         "+15% mental break threshold"
       ],
       "conflicts": [
-
+        "enduring",
+        "veryenduring",
+        "toosmart"
       ],
       "bypassLimit": false,
       "data": {
@@ -1528,7 +1620,9 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "enduring",
+          "veryenduring",
+          "toosmart"
         ],
         "stats": [
           "+15% mental break threshold"
@@ -1538,8 +1632,8 @@
       "name": "volatile",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": -2
     },
     {
@@ -1570,8 +1664,8 @@
       "name": "neurotic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -1602,8 +1696,8 @@
       "name": "veryneurotic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 2
     },
     {
@@ -1636,8 +1730,8 @@
       "name": "industrious",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 2
     },
     {
@@ -1670,8 +1764,8 @@
       "name": "hardworker",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -1704,8 +1798,8 @@
       "name": "lazy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": -1
     },
     {
@@ -1738,8 +1832,8 @@
       "name": "slothful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": -2
     },
     {
@@ -1768,8 +1862,8 @@
       "name": "psychicallyhypersensitive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 2
     },
     {
@@ -1798,8 +1892,8 @@
       "name": "psychicallysensitive",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -1828,8 +1922,8 @@
       "name": "psychicallydull",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": -1
     },
     {
@@ -1858,8 +1952,8 @@
       "name": "psychicallydeaf",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": -2
     },
     {
@@ -1888,8 +1982,8 @@
       "name": "beautiful",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 2
     },
     {
@@ -1918,8 +2012,8 @@
       "name": "pretty",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -1948,8 +2042,8 @@
       "name": "ugly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": -1
     },
     {
@@ -1978,8 +2072,8 @@
       "name": "staggeringlyugly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": -2
     },
     {
@@ -2008,8 +2102,8 @@
       "name": "super-immune",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -2038,8 +2132,8 @@
       "name": "sickly",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": -1
     },
     {
@@ -2074,8 +2168,8 @@
       "name": "carefulshooter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 1
     },
     {
@@ -2110,8 +2204,8 @@
       "name": "trigger-happy",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": -1
     },
     {
@@ -2145,12 +2239,3242 @@
         ]
       },
       "defName": "ShootingAccuracy",
-      "name": "deadshot",
+      "name": "carefulshooter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 1200,
+      "addPrice": 2000,
+      "removePrice": 1000,
       "degree": 2
+    },
+    {
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": -1
+    },
+    {
+      "description": "Timmy has a strong back which allows him to carry more than most people.",
+      "stats": [
+        "+50 carrying capacity"
+      ],
+      "conflicts": [
+        "wimp",
+        "frailback"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp",
+          "frailback"
+        ],
+        "stats": [
+          "+50 carrying capacity"
+        ]
+      },
+      "defName": "FT_StrongBack",
+      "name": "strongback",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has a very strong back, he must be part mule or something because he can carry a lot more than most people.",
+      "stats": [
+        "+75 carrying capacity"
+      ],
+      "conflicts": [
+        "wimp",
+        "frailback"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp",
+          "frailback"
+        ],
+        "stats": [
+          "+75 carrying capacity"
+        ]
+      },
+      "defName": "FT_StrongBack",
+      "name": "verystrongback",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 2
+    },
+    {
+      "description": "Timmy has a charismatic personality. he is good at social interactions and trading.",
+      "stats": [
+        "+2 social",
+        "+10.00% social impact",
+        "+10.00% negotiation ability",
+        "+5.00% trade price improvement",
+        "+5.00% drug sell price improvement"
+      ],
+      "conflicts": [
+        "abrasive",
+        "bloodlust",
+        "annoyingvoice",
+        "creepybreathing",
+        "idiotsavant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "abrasive",
+          "bloodlust",
+          "annoyingvoice",
+          "creepybreathing",
+          "idiotsavant"
+        ],
+        "stats": [
+          "+2 social",
+          "+10.00% social impact",
+          "+10.00% negotiation ability",
+          "+5.00% trade price improvement",
+          "+5.00% drug sell price improvement"
+        ]
+      },
+      "defName": "FT_Charisma",
+      "name": "charismatic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has a very charismatic personality. he is great at social interactions and trading.",
+      "stats": [
+        "+4 social",
+        "+20.00% social impact",
+        "+20.00% negotiation ability",
+        "+10.00% trade price improvement",
+        "+10.00% drug sell price improvement"
+      ],
+      "conflicts": [
+        "abrasive",
+        "bloodlust",
+        "annoyingvoice",
+        "creepybreathing",
+        "idiotsavant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "abrasive",
+          "bloodlust",
+          "annoyingvoice",
+          "creepybreathing",
+          "idiotsavant"
+        ],
+        "stats": [
+          "+4 social",
+          "+20.00% social impact",
+          "+20.00% negotiation ability",
+          "+10.00% trade price improvement",
+          "+10.00% drug sell price improvement"
+        ]
+      },
+      "defName": "FT_Charisma",
+      "name": "verycharismatic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 2
+    },
+    {
+      "description": "Timmy has an intimidating personality, this gives him an advantage in social interactions.",
+      "stats": [
+        "+1 social",
+        "+10.00% social impact",
+        "+10.00% negotiation ability",
+        "+10.00% Arrest success chance",
+        "+5.00% trade price improvement",
+        "+5.00% drug sell price improvement"
+      ],
+      "conflicts": [
+        "wimp",
+        "kind"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp",
+          "kind"
+        ],
+        "stats": [
+          "+1 social",
+          "+10.00% social impact",
+          "+10.00% negotiation ability",
+          "+10.00% Arrest success chance",
+          "+5.00% trade price improvement",
+          "+5.00% drug sell price improvement"
+        ]
+      },
+      "defName": "FT_Intimidation",
+      "name": "intimidating",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has a very intimidating personality, this gives him a large advantage in social interactions.",
+      "stats": [
+        "+2 social",
+        "+20.00% social impact",
+        "+20.00% negotiation ability",
+        "+20.00% Arrest success chance",
+        "+10.00% trade price improvement",
+        "+10.00% drug sell price improvement"
+      ],
+      "conflicts": [
+        "wimp",
+        "kind"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp",
+          "kind"
+        ],
+        "stats": [
+          "+2 social",
+          "+20.00% social impact",
+          "+20.00% negotiation ability",
+          "+20.00% Arrest success chance",
+          "+10.00% trade price improvement",
+          "+10.00% drug sell price improvement"
+        ]
+      },
+      "defName": "FT_Intimidation",
+      "name": "veryintimidating",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 2
+    },
+    {
+      "description": "Timmy has poor hand-eye coordination and will miss his target more often in combat.",
+      "stats": [
+        "-2 shooting",
+        "-10.0 shooting accuracy",
+        "-10.0 melee hit chance"
+      ],
+      "conflicts": [
+        "brawler",
+        "ironfist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brawler",
+          "ironfist"
+        ],
+        "stats": [
+          "-2 shooting",
+          "-10.0 shooting accuracy",
+          "-10.0 melee hit chance"
+        ]
+      },
+      "defName": "FT_AimOffset",
+      "name": "pooraim",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": -1
+    },
+    {
+      "description": "Timmy has good hand-eye coordination and will miss his target less often in combat.",
+      "stats": [
+        "+2 shooting",
+        "+10.0 shooting accuracy"
+      ],
+      "conflicts": [
+        "brawler",
+        "ironfist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brawler",
+          "ironfist"
+        ],
+        "stats": [
+          "+2 shooting",
+          "+10.0 shooting accuracy"
+        ]
+      },
+      "defName": "FT_AimOffset",
+      "name": "steadyaim",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has great hand-eye coordination and will miss his target less often in combat.",
+      "stats": [
+        "+4 shooting",
+        "+15.0 shooting accuracy"
+      ],
+      "conflicts": [
+        "brawler",
+        "ironfist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brawler",
+          "ironfist"
+        ],
+        "stats": [
+          "+4 shooting",
+          "+15.0 shooting accuracy"
+        ]
+      },
+      "defName": "FT_AimOffset",
+      "name": "greataim",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is a skilled crafter with artistic finesse, he enjoys putting things together and he's pretty good at it.",
+      "stats": [
+        "+3 crafting",
+        "+3 construction",
+        "+5 artistic",
+        "+25% smoothing speed",
+        "+10% general labor speed",
+        "+10% construction speed",
+        "+10% construct success chance",
+        "+10% repair success chance"
+      ],
+      "conflicts": [
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+3 crafting",
+          "+3 construction",
+          "+5 artistic",
+          "+25% smoothing speed",
+          "+10% general labor speed",
+          "+10% construction speed",
+          "+10% construct success chance",
+          "+10% repair success chance"
+        ]
+      },
+      "defName": "FT_Artisan",
+      "name": "artisan",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has an iron stomach. he can go without eating longer and it takes more to upset his stomach.",
+      "stats": [
+        "-30% hunger rate multiplier",
+        "+10% pain shock threshold",
+        "+10% immunity gain speed"
+      ],
+      "conflicts": [
+        "wimp",
+        "leadbelly"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp",
+          "leadbelly"
+        ],
+        "stats": [
+          "-30% hunger rate multiplier",
+          "+10% pain shock threshold",
+          "+10% immunity gain speed"
+        ]
+      },
+      "defName": "FT_IronStomach",
+      "name": "ironstomach",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy packs lightly. he will carry less but will move more swiftly.",
+      "stats": [
+        "-15 carrying capacity",
+        "+0.15 move speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-15 carrying capacity",
+          "+0.15 move speed"
+        ]
+      },
+      "defName": "FT_Packing",
+      "name": "packin'light",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": -1
+    },
+    {
+      "description": "Timmy is a pack rat, he will keep just about anything that might be useful later.",
+      "stats": [
+        "+30 carrying capacity"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+30 carrying capacity"
+        ]
+      },
+      "defName": "FT_Packing",
+      "name": "packrat",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has good reflexes and moves with finesse. he will land and dodge more attacks in melee combat.",
+      "stats": [
+        "+2 melee",
+        "+0.20 move speed",
+        "+5.0 melee hit chance",
+        "+0.1 melee dodge chance",
+        "+20% hunting stealth",
+        "-20% trap spring chance"
+      ],
+      "conflicts": [
+        "wimp",
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful",
+        "slowpoke",
+        "fastwalker",
+        "jogger",
+        "rooted"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp",
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful",
+          "slowpoke",
+          "fastwalker",
+          "jogger",
+          "rooted"
+        ],
+        "stats": [
+          "+2 melee",
+          "+0.20 move speed",
+          "+5.0 melee hit chance",
+          "+0.1 melee dodge chance",
+          "+20% hunting stealth",
+          "-20% trap spring chance"
+        ]
+      },
+      "defName": "FT_Agility",
+      "name": "agile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has great reflexes and moves like a ninja. he will land and dodge more attacks in melee combat.",
+      "stats": [
+        "+4 melee",
+        "+0.40 move speed",
+        "+10.0 melee hit chance",
+        "+0.2 melee dodge chance",
+        "+40% hunting stealth",
+        "-40% trap spring chance"
+      ],
+      "conflicts": [
+        "wimp",
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful",
+        "slowpoke",
+        "fastwalker",
+        "jogger",
+        "rooted"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp",
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful",
+          "slowpoke",
+          "fastwalker",
+          "jogger",
+          "rooted"
+        ],
+        "stats": [
+          "+4 melee",
+          "+0.40 move speed",
+          "+10.0 melee hit chance",
+          "+0.2 melee dodge chance",
+          "+40% hunting stealth",
+          "-40% trap spring chance"
+        ]
+      },
+      "defName": "FT_Agility",
+      "name": "ninja",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is more intelligent than average. he learns faster and has a good understanding of the world around him.",
+      "stats": [
+        "+3 intellectual",
+        "+1 medical",
+        "+10% global learning factor",
+        "+5% research speed",
+        "+5.00% negotiation ability",
+        "+5.00% trade price improvement",
+        "+5.00% drug sell price improvement"
+      ],
+      "conflicts": [
+        "idiotsavant",
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "idiotsavant",
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+3 intellectual",
+          "+1 medical",
+          "+10% global learning factor",
+          "+5% research speed",
+          "+5.00% negotiation ability",
+          "+5.00% trade price improvement",
+          "+5.00% drug sell price improvement"
+        ]
+      },
+      "defName": "FT_Intelligence",
+      "name": "intelligent",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is very intelligent. he learns faster and has a great understanding of the world around him.",
+      "stats": [
+        "+4 intellectual",
+        "+2 medical",
+        "+20% global learning factor",
+        "+10% research speed",
+        "+10.00% negotiation ability",
+        "+10.00% trade price improvement",
+        "+10.00% drug sell price improvement"
+      ],
+      "conflicts": [
+        "idiotsavant",
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "idiotsavant",
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+4 intellectual",
+          "+2 medical",
+          "+20% global learning factor",
+          "+10% research speed",
+          "+10.00% negotiation ability",
+          "+10.00% trade price improvement",
+          "+10.00% drug sell price improvement"
+        ]
+      },
+      "defName": "FT_Intelligence",
+      "name": "veryintelligent",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is aware of his surroundings and has a good understanding of how his actions affects others.",
+      "stats": [
+        "+1 intellectual",
+        "+1 medical",
+        "+1 social",
+        "+5.00% social impact",
+        "+5.00% negotiation ability",
+        "+5.00% trade price improvement",
+        "+5.00% drug sell price improvement",
+        "-5.00% food poison chance"
+      ],
+      "conflicts": [
+        "idiotsavant",
+        "stupid",
+        "abrasive",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "idiotsavant",
+          "stupid",
+          "abrasive",
+          "oblivious"
+        ],
+        "stats": [
+          "+1 intellectual",
+          "+1 medical",
+          "+1 social",
+          "+5.00% social impact",
+          "+5.00% negotiation ability",
+          "+5.00% trade price improvement",
+          "+5.00% drug sell price improvement",
+          "-5.00% food poison chance"
+        ]
+      },
+      "defName": "FT_Perception",
+      "name": "perceptive",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is very aware of his surroundings and has a great understanding of how his actions affects others.",
+      "stats": [
+        "+2 intellectual",
+        "+2 medical",
+        "+2 social",
+        "+10.00% social impact",
+        "+10.00% negotiation ability",
+        "+10.00% trade price improvement",
+        "+10.00% drug sell price improvement",
+        "-10.00% food poison chance"
+      ],
+      "conflicts": [
+        "idiotsavant",
+        "stupid",
+        "abrasive",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "idiotsavant",
+          "stupid",
+          "abrasive",
+          "oblivious"
+        ],
+        "stats": [
+          "+2 intellectual",
+          "+2 medical",
+          "+2 social",
+          "+10.00% social impact",
+          "+10.00% negotiation ability",
+          "+10.00% trade price improvement",
+          "+10.00% drug sell price improvement",
+          "-10.00% food poison chance"
+        ]
+      },
+      "defName": "FT_Perception",
+      "name": "veryperceptive",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is good at doging things. he is good at avoiding springing traps and dodging melee attacks.",
+      "stats": [
+        "+0.10 move speed",
+        "+0.1 melee dodge chance",
+        "-20% trap spring chance"
+      ],
+      "conflicts": [
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful",
+        "rooted"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful",
+          "rooted"
+        ],
+        "stats": [
+          "+0.10 move speed",
+          "+0.1 melee dodge chance",
+          "-20% trap spring chance"
+        ]
+      },
+      "defName": "FT_Evasion",
+      "name": "dodgy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is great at evading things. he is great at avoiding springing traps and dodging melee attacks.",
+      "stats": [
+        "+0.20 move speed",
+        "+0.2 melee dodge chance",
+        "-40% trap spring chance"
+      ],
+      "conflicts": [
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful",
+        "rooted"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful",
+          "rooted"
+        ],
+        "stats": [
+          "+0.20 move speed",
+          "+0.2 melee dodge chance",
+          "-40% trap spring chance"
+        ]
+      },
+      "defName": "FT_Evasion",
+      "name": "evasive",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is great at traveling. he moves quickly while carrying more and will forage extra nutrition while traveling in caravans.",
+      "stats": [
+        "+1 social",
+        "+0.10 move speed",
+        "+10 carrying capacity",
+        "-10% hunger rate multiplier",
+        "+0.5 foraged food amount"
+      ],
+      "conflicts": [
+        "frailback",
+        "rooted"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "frailback",
+          "rooted"
+        ],
+        "stats": [
+          "+1 social",
+          "+0.10 move speed",
+          "+10 carrying capacity",
+          "-10% hunger rate multiplier",
+          "+0.5 foraged food amount"
+        ]
+      },
+      "defName": "FT_Adventuring",
+      "name": "traveler",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is great at exploration. he moves quickly while carrying more and will forage extra nutrition while traveling in caravans.",
+      "stats": [
+        "+2 social",
+        "+0.15 move speed",
+        "+25 carrying capacity",
+        "-15% hunger rate multiplier",
+        "+0.75 foraged food amount"
+      ],
+      "conflicts": [
+        "frailback",
+        "rooted"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "frailback",
+          "rooted"
+        ],
+        "stats": [
+          "+2 social",
+          "+0.15 move speed",
+          "+25 carrying capacity",
+          "-15% hunger rate multiplier",
+          "+0.75 foraged food amount"
+        ]
+      },
+      "defName": "FT_Adventuring",
+      "name": "explorer",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is great at adventuring. he moves quickly while carrying more and will forage extra nutrition while traveling in caravans.",
+      "stats": [
+        "+3 social",
+        "+0.20 move speed",
+        "+50 carrying capacity",
+        "-20% hunger rate multiplier",
+        "+1 foraged food amount"
+      ],
+      "conflicts": [
+        "frailback",
+        "rooted"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "frailback",
+          "rooted"
+        ],
+        "stats": [
+          "+3 social",
+          "+0.20 move speed",
+          "+50 carrying capacity",
+          "-20% hunger rate multiplier",
+          "+1 foraged food amount"
+        ]
+      },
+      "defName": "FT_Adventuring",
+      "name": "adventurer",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 3
+    },
+    {
+      "description": "Timmy is a bandolier. he likes to keep extra ammo handy for reloading ranged weapons.",
+      "stats": [
+        "+2 shooting",
+        "-10% aiming time",
+        "+25 carrying capacity"
+      ],
+      "conflicts": [
+        "brawler",
+        "frailback",
+        "ironfist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brawler",
+          "frailback",
+          "ironfist"
+        ],
+        "stats": [
+          "+2 shooting",
+          "-10% aiming time",
+          "+25 carrying capacity"
+        ]
+      },
+      "defName": "FT_Bandolier",
+      "name": "bandolier",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a scientific mind. he is a good researcher and a fast learner.",
+      "stats": [
+        "+2 intellectual",
+        "+1 medical",
+        "+15% global learning factor",
+        "+10% research speed"
+      ],
+      "conflicts": [
+        "idiotsavant",
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "idiotsavant",
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+2 intellectual",
+          "+1 medical",
+          "+15% global learning factor",
+          "+10% research speed"
+        ]
+      },
+      "defName": "FT_Scientific",
+      "name": "scientific",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has a very scientific mind. he is a great researcher and a fast learner.",
+      "stats": [
+        "+3 intellectual",
+        "+2 medical",
+        "+30% global learning factor",
+        "+20% research speed"
+      ],
+      "conflicts": [
+        "idiotsavant",
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "idiotsavant",
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+3 intellectual",
+          "+2 medical",
+          "+30% global learning factor",
+          "+20% research speed"
+        ]
+      },
+      "defName": "FT_Scientific",
+      "name": "veryscientific",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 2
+    },
+    {
+      "description": "Timmy has good health and an enduring personality. he is better at handling stressful situations than others.",
+      "stats": [
+        "-10% incoming damage multiplier",
+        "-10% mental break threshold",
+        "+10% pain shock threshold",
+        "+10% immunity gain speed"
+      ],
+      "conflicts": [
+        "wimp",
+        "iron-willed",
+        "steadfast",
+        "nervous",
+        "volatile"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp",
+          "iron-willed",
+          "steadfast",
+          "nervous",
+          "volatile"
+        ],
+        "stats": [
+          "-10% incoming damage multiplier",
+          "-10% mental break threshold",
+          "+10% pain shock threshold",
+          "+10% immunity gain speed"
+        ]
+      },
+      "defName": "FT_Endurance",
+      "name": "enduring",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has exceptional health and a very enduring personality. he is capable of handling high stress situations that others cannot.",
+      "stats": [
+        "-20% incoming damage multiplier",
+        "-20% mental break threshold",
+        "+20% pain shock threshold",
+        "+20% immunity gain speed"
+      ],
+      "conflicts": [
+        "wimp",
+        "iron-willed",
+        "steadfast",
+        "nervous",
+        "volatile"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp",
+          "iron-willed",
+          "steadfast",
+          "nervous",
+          "volatile"
+        ],
+        "stats": [
+          "-20% incoming damage multiplier",
+          "-20% mental break threshold",
+          "+20% pain shock threshold",
+          "+20% immunity gain speed"
+        ]
+      },
+      "defName": "FT_Endurance",
+      "name": "veryenduring",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is great at bargaining. he is great at social interactions and can find great deals while trading.",
+      "stats": [
+        "+3 social",
+        "+5.00% negotiation ability",
+        "+10.00% trade price improvement",
+        "+10.00% drug sell price improvement"
+      ],
+      "conflicts": [
+        "abrasive",
+        "annoyingvoice",
+        "idiotsavant",
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "abrasive",
+          "annoyingvoice",
+          "idiotsavant",
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+3 social",
+          "+5.00% negotiation ability",
+          "+10.00% trade price improvement",
+          "+10.00% drug sell price improvement"
+        ]
+      },
+      "defName": "FT_Bargaining",
+      "name": "bargainer",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is a hard bargainer. he is adept at social interactions and can find the best deals while trading.",
+      "stats": [
+        "+4 social",
+        "+10.00% negotiation ability",
+        "+15.00% trade price improvement",
+        "+15.00% drug sell price improvement"
+      ],
+      "conflicts": [
+        "abrasive",
+        "annoyingvoice",
+        "idiotsavant",
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "abrasive",
+          "annoyingvoice",
+          "idiotsavant",
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+4 social",
+          "+10.00% negotiation ability",
+          "+15.00% trade price improvement",
+          "+15.00% drug sell price improvement"
+        ]
+      },
+      "defName": "FT_Bargaining",
+      "name": "hardbargainer",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 2
+    },
+    {
+      "description": "Timmy has an uninspiring personality. he has less motivation to learn and puts less effort into social interactions.",
+      "stats": [
+        "-1 social",
+        "-10% global learning factor",
+        "-10.00% social impact",
+        "-10.00% negotiation ability"
+      ],
+      "conflicts": [
+        "abrasive",
+        "bloodlust",
+        "annoyingvoice",
+        "creepybreathing",
+        "idiotsavant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "abrasive",
+          "bloodlust",
+          "annoyingvoice",
+          "creepybreathing",
+          "idiotsavant"
+        ],
+        "stats": [
+          "-1 social",
+          "-10% global learning factor",
+          "-10.00% social impact",
+          "-10.00% negotiation ability"
+        ]
+      },
+      "defName": "FT_Inspiration",
+      "name": "uninspiring",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": -1
+    },
+    {
+      "description": "Timmy has an inspirational personality. he is good at social interactions and is a motivated learner .",
+      "stats": [
+        "+2 social",
+        "+1 intellectual",
+        "+10% global learning factor",
+        "+10.00% social impact",
+        "+10.00% negotiation ability"
+      ],
+      "conflicts": [
+        "abrasive",
+        "bloodlust",
+        "annoyingvoice",
+        "creepybreathing",
+        "idiotsavant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "abrasive",
+          "bloodlust",
+          "annoyingvoice",
+          "creepybreathing",
+          "idiotsavant"
+        ],
+        "stats": [
+          "+2 social",
+          "+1 intellectual",
+          "+10% global learning factor",
+          "+10.00% social impact",
+          "+10.00% negotiation ability"
+        ]
+      },
+      "defName": "FT_Inspiration",
+      "name": "inspirational",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has a very inspirational personality. he is great at social interactions and is a very motivated learner.",
+      "stats": [
+        "+3 social",
+        "+2 intellectual",
+        "+20% global learning factor",
+        "+20.00% social impact",
+        "+20.00% negotiation ability"
+      ],
+      "conflicts": [
+        "abrasive",
+        "bloodlust",
+        "annoyingvoice",
+        "creepybreathing",
+        "idiotsavant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "abrasive",
+          "bloodlust",
+          "annoyingvoice",
+          "creepybreathing",
+          "idiotsavant"
+        ],
+        "stats": [
+          "+3 social",
+          "+2 intellectual",
+          "+20% global learning factor",
+          "+20.00% social impact",
+          "+20.00% negotiation ability"
+        ]
+      },
+      "defName": "FT_Inspiration",
+      "name": "veryinspirational",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is a generous person, sometimes to a fault. he is a good negotiator but often does so by offering more than he should.",
+      "stats": [
+        "+2 social",
+        "+10.00% social impact",
+        "+10.00% negotiation ability",
+        "-5.00% trade price improvement",
+        "-5.00% drug sell price improvement"
+      ],
+      "conflicts": [
+        "greedy",
+        "jealous",
+        "abrasive",
+        "bloodlust",
+        "idiotsavant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "greedy",
+          "jealous",
+          "abrasive",
+          "bloodlust",
+          "idiotsavant"
+        ],
+        "stats": [
+          "+2 social",
+          "+10.00% social impact",
+          "+10.00% negotiation ability",
+          "-5.00% trade price improvement",
+          "-5.00% drug sell price improvement"
+        ]
+      },
+      "defName": "FT_Generosity",
+      "name": "generous",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy is an overly generous person to a fault. he is a great negotiator but often does so by offering more than he should",
+      "stats": [
+        "+3 social",
+        "+15.00% social impact",
+        "+15.00% negotiation ability",
+        "-10.00% trade price improvement",
+        "-10.00% drug sell price improvement"
+      ],
+      "conflicts": [
+        "greedy",
+        "jealous",
+        "abrasive",
+        "bloodlust",
+        "idiotsavant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "greedy",
+          "jealous",
+          "abrasive",
+          "bloodlust",
+          "idiotsavant"
+        ],
+        "stats": [
+          "+3 social",
+          "+15.00% social impact",
+          "+15.00% negotiation ability",
+          "-10.00% trade price improvement",
+          "-10.00% drug sell price improvement"
+        ]
+      },
+      "defName": "FT_Generosity",
+      "name": "overlygenerous",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 2
+    },
+    {
+      "description": "Timmy is good at working with scrap metal. he is great with a smelter and is efficient when using building materials. ",
+      "stats": [
+        "+2 construction",
+        "+2 crafting",
+        "+25% smelting speed",
+        "+25% construction speed",
+        "+10% repair success chance",
+        "+10% construct success chance",
+        "+25% mechanoid shredding speed",
+        "+10% mechanoid shredding efficiency"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2 construction",
+          "+2 crafting",
+          "+25% smelting speed",
+          "+25% construction speed",
+          "+10% repair success chance",
+          "+10% construct success chance",
+          "+25% mechanoid shredding speed",
+          "+10% mechanoid shredding efficiency"
+        ]
+      },
+      "defName": "FT_Scrapper",
+      "name": "scrapper",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a natural leader, he is good at social interactions and can handle stressful situations that others might not.",
+      "stats": [
+        "+5 social",
+        "+15.00% social impact",
+        "+15.00% negotiation ability",
+        "-10% mental break threshold"
+      ],
+      "conflicts": [
+        "greedy",
+        "jealous",
+        "annoyingvoice",
+        "creepybreathing",
+        "idiotsavant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "greedy",
+          "jealous",
+          "annoyingvoice",
+          "creepybreathing",
+          "idiotsavant"
+        ],
+        "stats": [
+          "+5 social",
+          "+15.00% social impact",
+          "+15.00% negotiation ability",
+          "-10% mental break threshold"
+        ]
+      },
+      "defName": "FT_NaturalLeader",
+      "name": "naturalleader",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy's body has built up a resistance to the negative effects of toxic fallout.",
+      "stats": [
+        "+10% immunity gain speed",
+        "x70% toxic sensitivity"
+      ],
+      "conflicts": [
+        "ghoulish"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "ghoulish"
+        ],
+        "stats": [
+          "+10% immunity gain speed",
+          "x70% toxic sensitivity"
+        ]
+      },
+      "defName": "FT_RadResistant",
+      "name": "radresistant",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy's body has built up a tolerance to the negative effects of toxic fallout.",
+      "stats": [
+        "+10% immunity gain speed",
+        "x40% toxic sensitivity"
+      ],
+      "conflicts": [
+        "ghoulish"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "ghoulish"
+        ],
+        "stats": [
+          "+10% immunity gain speed",
+          "x40% toxic sensitivity"
+        ]
+      },
+      "defName": "FT_RadResistant",
+      "name": "radtolerant",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 2
+    },
+    {
+      "description": "There's no time to waste! Timmy has increased movement and work speed.",
+      "stats": [
+        "+0.20 move speed",
+        "+20% global work speed",
+        "+20% eating speed",
+        "+10% rest rate multiplier"
+      ],
+      "conflicts": [
+        "slowpoke",
+        "fastwalker",
+        "jogger",
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful",
+        "actiongirl",
+        "blitz"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "slowpoke",
+          "fastwalker",
+          "jogger",
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful",
+          "actiongirl",
+          "blitz"
+        ],
+        "stats": [
+          "+0.20 move speed",
+          "+20% global work speed",
+          "+20% eating speed",
+          "+10% rest rate multiplier"
+        ]
+      },
+      "defName": "FT_ActionBoy",
+      "name": "actionboy",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "There's no time to waste! Timmy has increased movement and work speed.",
+      "stats": [
+        "+0.20 move speed",
+        "+20% global work speed",
+        "+20% eating speed",
+        "+10% rest rate multiplier"
+      ],
+      "conflicts": [
+        "slowpoke",
+        "fastwalker",
+        "jogger",
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful",
+        "actionboy",
+        "blitz"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "slowpoke",
+          "fastwalker",
+          "jogger",
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful",
+          "actionboy",
+          "blitz"
+        ],
+        "stats": [
+          "+0.20 move speed",
+          "+20% global work speed",
+          "+20% eating speed",
+          "+10% rest rate multiplier"
+        ]
+      },
+      "defName": "FT_ActionGirl",
+      "name": "actiongirl",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has quick hands. When it comes to his hands, Timmy never hesitates.",
+      "stats": [
+        "+2 melee",
+        "+20% global work speed",
+        "-10% aiming time",
+        "+5.0 melee hit chance"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2 melee",
+          "+20% global work speed",
+          "-10% aiming time",
+          "+5.0 melee hit chance"
+        ]
+      },
+      "defName": "FT_QuickHands",
+      "name": "quickhands",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a gun nut, he loves guns so much that he gets a mood boost while holding a ranged weapon.",
+      "stats": [
+        "+3 shooting",
+        "-10% aiming time",
+        "+5.0 shooting accuracy"
+      ],
+      "conflicts": [
+        "brawler",
+        "wimp",
+        "ironfist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brawler",
+          "wimp",
+          "ironfist"
+        ],
+        "stats": [
+          "+3 shooting",
+          "-10% aiming time",
+          "+5.0 shooting accuracy"
+        ]
+      },
+      "defName": "FT_GunNut",
+      "name": "gunnut",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy knows how to scavenge and gather for resources quickly, but if you think that's fast wait until you see he eat!",
+      "stats": [
+        "+20% mining speed",
+        "+20% deep drilling speed",
+        "+20% plant work speed",
+        "+20% animal gather speed",
+        "+20% butchery speed",
+        "+20% mechanoid shredding speed",
+        "+50% eating speed"
+      ],
+      "conflicts": [
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "oblivious"
+        ],
+        "stats": [
+          "+20% mining speed",
+          "+20% deep drilling speed",
+          "+20% plant work speed",
+          "+20% animal gather speed",
+          "+20% butchery speed",
+          "+20% mechanoid shredding speed",
+          "+50% eating speed"
+        ]
+      },
+      "defName": "FT_Scrounger",
+      "name": "scrounger",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a sturdy frame. he can carry more and it takes more to bring him down.",
+      "stats": [
+        "-10% incoming damage multiplier",
+        "+10% pain shock threshold",
+        "+25 carrying capacity"
+      ],
+      "conflicts": [
+        "frailback"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "frailback"
+        ],
+        "stats": [
+          "-10% incoming damage multiplier",
+          "+10% pain shock threshold",
+          "+25 carrying capacity"
+        ]
+      },
+      "defName": "FT_SturdyFrame",
+      "name": "sturdyframe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is survialist. he has a natural ability to survive some situations that others might not.",
+      "stats": [
+        "+2 plants",
+        "-10% incoming damage multiplier",
+        "+10% immunity gain speed",
+        "+10% injury healing factor",
+        "+10% plant harvest yield",
+        "+0.5 foraged food amount"
+      ],
+      "conflicts": [
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "oblivious"
+        ],
+        "stats": [
+          "+2 plants",
+          "-10% incoming damage multiplier",
+          "+10% immunity gain speed",
+          "+10% injury healing factor",
+          "+10% plant harvest yield",
+          "+0.5 foraged food amount"
+        ]
+      },
+      "defName": "FT_Survivalist",
+      "name": "survivalist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy finds the gap to make the tackle! he moves quickly and gets the jobs done before anyone can react.",
+      "stats": [
+        "+2 melee",
+        "+0.25 move speed",
+        "+25% global work speed",
+        "+10.0 melee hit chance"
+      ],
+      "conflicts": [
+        "slowpoke",
+        "fastwalker",
+        "jogger",
+        "industrious",
+        "hardworker",
+        "lazy",
+        "slothful",
+        "actionboy",
+        "actiongirl",
+        "rooted",
+        "perfectionist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "slowpoke",
+          "fastwalker",
+          "jogger",
+          "industrious",
+          "hardworker",
+          "lazy",
+          "slothful",
+          "actionboy",
+          "actiongirl",
+          "rooted",
+          "perfectionist"
+        ],
+        "stats": [
+          "+2 melee",
+          "+0.25 move speed",
+          "+25% global work speed",
+          "+10.0 melee hit chance"
+        ]
+      },
+      "defName": "FT_Blitz",
+      "name": "blitz",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a philanthropist. he is generally good natured and cares for the welfare of others.",
+      "stats": [
+        "+3 social",
+        "+15.00% social impact",
+        "+15.00% negotiation ability",
+        "+5.00% trade price improvement"
+      ],
+      "conflicts": [
+        "cannibal",
+        "psychopath",
+        "pyromaniac",
+        "abrasive",
+        "jealous",
+        "greedy",
+        "bloodlust",
+        "idiotsavant"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "cannibal",
+          "psychopath",
+          "pyromaniac",
+          "abrasive",
+          "jealous",
+          "greedy",
+          "bloodlust",
+          "idiotsavant"
+        ],
+        "stats": [
+          "+3 social",
+          "+15.00% social impact",
+          "+15.00% negotiation ability",
+          "+5.00% trade price improvement"
+        ]
+      },
+      "defName": "FT_Philanthropist",
+      "name": "philanthropist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 1
+    },
+    {
+      "description": "Timmy has healing hands. Whether it's for patching up or food the colony knows they can count on his healing touch.",
+      "stats": [
+        "+5 medical",
+        "+2 cooking",
+        "+10% medical tend speed",
+        "+10% medical tend quality",
+        "+10% medical operation speed",
+        "+10% medical surgery success chance",
+        "-10.00% food poison chance"
+      ],
+      "conflicts": [
+        "bloodlust",
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "bloodlust",
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+5 medical",
+          "+2 cooking",
+          "+10% medical tend speed",
+          "+10% medical tend quality",
+          "+10% medical operation speed",
+          "+10% medical surgery success chance",
+          "-10.00% food poison chance"
+        ]
+      },
+      "defName": "FT_HealingHands",
+      "name": "healinghands",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is part tree! It takes more to bring Timmy down but also more to get him moving.",
+      "stats": [
+        "+2 melee",
+        "-0.20 move speed",
+        "-10% incoming damage multiplier",
+        "+10% pain shock threshold",
+        "+10% plant work speed"
+      ],
+      "conflicts": [
+        "wimp",
+        "slowpoke",
+        "fastwalker",
+        "jogger",
+        "actionboy",
+        "actiongirl",
+        "agile",
+        "ninja",
+        "blitz",
+        "dodgy",
+        "evasive",
+        "traveler",
+        "explorer",
+        "adventurer"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp",
+          "slowpoke",
+          "fastwalker",
+          "jogger",
+          "actionboy",
+          "actiongirl",
+          "agile",
+          "ninja",
+          "blitz",
+          "dodgy",
+          "evasive",
+          "traveler",
+          "explorer",
+          "adventurer"
+        ],
+        "stats": [
+          "+2 melee",
+          "-0.20 move speed",
+          "-10% incoming damage multiplier",
+          "+10% pain shock threshold",
+          "+10% plant work speed"
+        ]
+      },
+      "defName": "FT_Rooted",
+      "name": "rooted",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a lead belly. his belly can go much longer without food and he is more resistant to toxic radiation.",
+      "stats": [
+        "-30% hunger rate multiplier",
+        "-20% toxic sensitivity",
+        "+10% immunity gain speed"
+      ],
+      "conflicts": [
+        "ironstomach"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "ironstomach"
+        ],
+        "stats": [
+          "-30% hunger rate multiplier",
+          "-20% toxic sensitivity",
+          "+10% immunity gain speed"
+        ]
+      },
+      "defName": "FT_LeadBelly",
+      "name": "leadbelly",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has bear arms. he can carry more and his arms pack more of a punch!",
+      "stats": [
+        "+3 melee",
+        "+3 mining",
+        "+25 carrying capacity",
+        "+10% global work speed",
+        "+10% mining speed",
+        "+10% deep drilling speed"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+3 melee",
+          "+3 mining",
+          "+25 carrying capacity",
+          "+10% global work speed",
+          "+10% mining speed",
+          "+10% deep drilling speed"
+        ]
+      },
+      "defName": "FT_BearArms",
+      "name": "beararms",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is serendipitous, he seems to be a pretty lucky individual and he's pretty happy about it too.",
+      "stats": [
+        "+0.1 melee dodge chance",
+        "+10.0 shooting accuracy",
+        "x50% trap spring chance"
+      ],
+      "conflicts": [
+        "sanguine",
+        "optimist",
+        "pessimist",
+        "depressive",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "sanguine",
+          "optimist",
+          "pessimist",
+          "depressive",
+          "oblivious"
+        ],
+        "stats": [
+          "+0.1 melee dodge chance",
+          "+10.0 shooting accuracy",
+          "x50% trap spring chance"
+        ]
+      },
+      "defName": "FT_Serendipitous",
+      "name": "serendipitous",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a passion for gardening. he is quick when working with plants and recieves more bountiful yields when harvesting them.",
+      "stats": [
+        "+4 plants",
+        "+10% plant work speed",
+        "+10% plant harvest yield",
+        "+10% drug crop harvest yield",
+        "+1 foraged food amount"
+      ],
+      "conflicts": [
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+4 plants",
+          "+10% plant work speed",
+          "+10% plant harvest yield",
+          "+10% drug crop harvest yield",
+          "+1 foraged food amount"
+        ]
+      },
+      "defName": "FT_GreenThumb",
+      "name": "greenthumb",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a tenderizer! he has a passion for beating meat into submission.",
+      "stats": [
+        "+4 melee",
+        "+2.00 melee DPS",
+        "+1.0 beauty",
+        "+20.00% Arrest success chance",
+        "+20% animal gather speed",
+        "+20% butchery speed"
+      ],
+      "conflicts": [
+        "wimp",
+        "frailback"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp",
+          "frailback"
+        ],
+        "stats": [
+          "+4 melee",
+          "+2.00 melee DPS",
+          "+1.0 beauty",
+          "+20.00% Arrest success chance",
+          "+20% animal gather speed",
+          "+20% butchery speed"
+        ]
+      },
+      "defName": "FT_Tenderizer",
+      "name": "tenderizer",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy seems to discover hidden wealth where ever he goes.",
+      "stats": [
+        "+10% mining yield",
+        "+10% animal gather yield",
+        "+10% plant harvest yield",
+        "+10% drug crop harvest yield",
+        "+10% butchery efficiency",
+        "+10% mechanoid shredding efficiency",
+        "+1 foraged food amount"
+      ],
+      "conflicts": [
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "oblivious"
+        ],
+        "stats": [
+          "+10% mining yield",
+          "+10% animal gather yield",
+          "+10% plant harvest yield",
+          "+10% drug crop harvest yield",
+          "+10% butchery efficiency",
+          "+10% mechanoid shredding efficiency",
+          "+1 foraged food amount"
+        ]
+      },
+      "defName": "FT_FortuneFinder",
+      "name": "fortunefinder",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a bountiful butcher! he isn't afraid to dig a little deeper to get what he wants.",
+      "stats": [
+        "+4 cooking",
+        "+20% animal gather speed",
+        "+20% butchery speed",
+        "+20% mechanoid shredding speed",
+        "+10% animal gather yield",
+        "+10% butchery efficiency",
+        "+10% mechanoid shredding efficiency"
+      ],
+      "conflicts": [
+        "animalfriend",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "animalfriend",
+          "oblivious"
+        ],
+        "stats": [
+          "+4 cooking",
+          "+20% animal gather speed",
+          "+20% butchery speed",
+          "+20% mechanoid shredding speed",
+          "+10% animal gather yield",
+          "+10% butchery efficiency",
+          "+10% mechanoid shredding efficiency"
+        ]
+      },
+      "defName": "FT_BountifulButcher",
+      "name": "bountifulbutcher",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a passion for animals. he is adept at animal interactions and will bond with them more often. Timmy refuses to hunt animals.",
+      "stats": [
+        "+4 animals",
+        "+1.00% bond chance factor",
+        "+25% animal gather speed",
+        "+10% animal gather yield",
+        "+5.00% tame animal chance",
+        "+5.00% train animal chance"
+      ],
+      "conflicts": [
+        "psychopath",
+        "bloodlust",
+        "bountifulbutcher",
+        "ghoulish"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "psychopath",
+          "bloodlust",
+          "bountifulbutcher",
+          "ghoulish"
+        ],
+        "stats": [
+          "+4 animals",
+          "+1.00% bond chance factor",
+          "+25% animal gather speed",
+          "+10% animal gather yield",
+          "+5.00% tame animal chance",
+          "+5.00% train animal chance"
+        ]
+      },
+      "defName": "FT_AnimalFriend",
+      "name": "animalfriend",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a magnetic body, literally! Somehow he able to use his attractiveness on not just colonists, but metals too!.",
+      "stats": [
+        "+2 social",
+        "+2 crafting",
+        "+2.0 beauty",
+        "+10.00% social impact",
+        "+10.00% negotiation ability",
+        "+20% smelting speed",
+        "+20% mining speed",
+        "+20% deep drilling speed",
+        "+10.00% Arrest success chance"
+      ],
+      "conflicts": [
+        "beautiful",
+        "pretty",
+        "ugly",
+        "staggeringlyugly",
+        "jealous",
+        "annoyingvoice",
+        "creepybreathing",
+        "idiotsavant",
+        "ghoulish"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "beautiful",
+          "pretty",
+          "ugly",
+          "staggeringlyugly",
+          "jealous",
+          "annoyingvoice",
+          "creepybreathing",
+          "idiotsavant",
+          "ghoulish"
+        ],
+        "stats": [
+          "+2 social",
+          "+2 crafting",
+          "+2.0 beauty",
+          "+10.00% social impact",
+          "+10.00% negotiation ability",
+          "+20% smelting speed",
+          "+20% mining speed",
+          "+20% deep drilling speed",
+          "+10.00% Arrest success chance"
+        ]
+      },
+      "defName": "FT_Magnetic",
+      "name": "magnetic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy embodies wellness! Colonist who need treatment can rest easily knowing they have his's expertise keeping them alive.",
+      "stats": [
+        "+5 medical",
+        "+2 plants",
+        "+10% medical tend speed",
+        "+10% medical tend quality",
+        "+10% medical operation speed",
+        "+10% immunity gain speed",
+        "+5% medical surgery success chance"
+      ],
+      "conflicts": [
+        "bloodlust",
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "bloodlust",
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+5 medical",
+          "+2 plants",
+          "+10% medical tend speed",
+          "+10% medical tend quality",
+          "+10% medical operation speed",
+          "+10% immunity gain speed",
+          "+5% medical surgery success chance"
+        ]
+      },
+      "defName": "FT_LifeGiver",
+      "name": "lifegiver",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a spiritual healer, he is a great doctor with good social skills. Timmy loves to grow and make his own medicine.",
+      "stats": [
+        "+3 medical",
+        "+3 plants",
+        "+2 social",
+        "+10% medical tend speed",
+        "+10% medical tend quality",
+        "+10% drug synthesis speed",
+        "+10% drug crop harvest yield",
+        "+10.00% social impact"
+      ],
+      "conflicts": [
+        "abrasive",
+        "bloodlust",
+        "stupid",
+        "oblivious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "abrasive",
+          "bloodlust",
+          "stupid",
+          "oblivious"
+        ],
+        "stats": [
+          "+3 medical",
+          "+3 plants",
+          "+2 social",
+          "+10% medical tend speed",
+          "+10% medical tend quality",
+          "+10% drug synthesis speed",
+          "+10% drug crop harvest yield",
+          "+10.00% social impact"
+        ]
+      },
+      "defName": "FT_SpiritualHealer",
+      "name": "spiritualhealer",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a frail back and won't be able to carry as much as the average person.",
+      "stats": [
+        "-25 carrying capacity"
+      ],
+      "conflicts": [
+        "strongback",
+        "verystrongback",
+        "sturdyframe",
+        "wreckingball",
+        "bandolier",
+        "traveler",
+        "explorer",
+        "adventurer",
+        "ironfist",
+        "tenderizer"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "strongback",
+          "verystrongback",
+          "sturdyframe",
+          "wreckingball",
+          "bandolier",
+          "traveler",
+          "explorer",
+          "adventurer",
+          "ironfist",
+          "tenderizer"
+        ],
+        "stats": [
+          "-25 carrying capacity"
+        ]
+      },
+      "defName": "FT_FrailBack",
+      "name": "frailback",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is still human, mostly. he is immune to the effects of toxic fallout and much harder to kill but his ghoulish appearance makes interacting with others difficult.",
+      "stats": [
+        "-3 social",
+        "-3 animals",
+        "-25% incoming damage multiplier",
+        "+25% immunity gain speed",
+        "+25% injury healing factor",
+        "-3.0 beauty",
+        "-20.00% social impact",
+        "-25.00% tame animal chance",
+        "-25.00% train animal chance",
+        "x0% toxic sensitivity"
+      ],
+      "conflicts": [
+        "beautiful",
+        "pretty",
+        "ugly",
+        "staggeringlyugly",
+        "radresistant",
+        "radtolerant",
+        "animalfriend",
+        "magnetic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "beautiful",
+          "pretty",
+          "ugly",
+          "staggeringlyugly",
+          "radresistant",
+          "radtolerant",
+          "animalfriend",
+          "magnetic"
+        ],
+        "stats": [
+          "-3 social",
+          "-3 animals",
+          "-25% incoming damage multiplier",
+          "+25% immunity gain speed",
+          "+25% injury healing factor",
+          "-3.0 beauty",
+          "-20.00% social impact",
+          "-25.00% tame animal chance",
+          "-25.00% train animal chance",
+          "x0% toxic sensitivity"
+        ]
+      },
+      "defName": "FT_Ghoulish",
+      "name": "ghoulish",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy isn't stupid! he is just... different. he works through tasks slowly but learns extremely quickly. he is incapable performing intellectual, social or caring tasks.",
+      "stats": [
+        "+150% global learning factor",
+        "-25% global work speed"
+      ],
+      "conflicts": [
+        "fastlearner",
+        "toosmart",
+        "slowlearner",
+        "charismatic",
+        "verycharismatic",
+        "intelligent",
+        "veryintelligent",
+        "perceptive",
+        "veryperceptive",
+        "stupid",
+        "uninspiring",
+        "inspirational",
+        "veryinspirational",
+        "generous",
+        "overlygenerous",
+        "scientific",
+        "veryscientific",
+        "philanthropist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "fastlearner",
+          "toosmart",
+          "slowlearner",
+          "charismatic",
+          "verycharismatic",
+          "intelligent",
+          "veryintelligent",
+          "perceptive",
+          "veryperceptive",
+          "stupid",
+          "uninspiring",
+          "inspirational",
+          "veryinspirational",
+          "generous",
+          "overlygenerous",
+          "scientific",
+          "veryscientific",
+          "philanthropist"
+        ],
+        "stats": [
+          "+150% global learning factor",
+          "-25% global work speed"
+        ]
+      },
+      "defName": "FT_IdiotSavant",
+      "name": "idiotsavant",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy isn't very smart. he can mess up doing just about anything.",
+      "stats": [
+        "-2 intellectual",
+        "-2 medical",
+        "-10% research speed",
+        "-20% global learning factor",
+        "-5% construct success chance",
+        "-5% repair success chance"
+      ],
+      "conflicts": [
+        "fastlearner",
+        "toosmart",
+        "idiotsavant",
+        "intelligent",
+        "veryintelligent",
+        "perceptive",
+        "veryperceptive",
+        "healinghands",
+        "scientific",
+        "veryscientific",
+        "perfectionist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "fastlearner",
+          "toosmart",
+          "idiotsavant",
+          "intelligent",
+          "veryintelligent",
+          "perceptive",
+          "veryperceptive",
+          "healinghands",
+          "scientific",
+          "veryscientific",
+          "perfectionist"
+        ],
+        "stats": [
+          "-2 intellectual",
+          "-2 medical",
+          "-10% research speed",
+          "-20% global learning factor",
+          "-5% construct success chance",
+          "-5% repair success chance"
+        ]
+      },
+      "defName": "FT_Stupid",
+      "name": "stupid",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy isn't very aware of his surroundings, or anything at all really. he",
+      "stats": [
+        "-1 intellectual",
+        "-1 medical",
+        "-1 social",
+        "-1 animals",
+        "-20% global learning factor",
+        "-0.1 melee dodge chance",
+        "-5.00% train animal chance",
+        "-5.00% tame animal chance"
+      ],
+      "conflicts": [
+        "fastlearner",
+        "toosmart",
+        "intelligent",
+        "veryintelligent",
+        "perceptive",
+        "veryperceptive",
+        "fortunefinder",
+        "scrounger",
+        "serendipitous",
+        "scientific",
+        "veryscientific",
+        "perfectionist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "fastlearner",
+          "toosmart",
+          "intelligent",
+          "veryintelligent",
+          "perceptive",
+          "veryperceptive",
+          "fortunefinder",
+          "scrounger",
+          "serendipitous",
+          "scientific",
+          "veryscientific",
+          "perfectionist"
+        ],
+        "stats": [
+          "-1 intellectual",
+          "-1 medical",
+          "-1 social",
+          "-1 animals",
+          "-20% global learning factor",
+          "-0.1 melee dodge chance",
+          "-5.00% train animal chance",
+          "-5.00% tame animal chance"
+        ]
+      },
+      "defName": "FT_Oblivious",
+      "name": "oblivious",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is part woodchuck! he wants everyone to think his great woodworking skills are because of talent but everybody knows it's really because of those dang teeth.",
+      "stats": [
+        "+3 plants",
+        "+3 construction",
+        "+3 artistic",
+        "+30% construction speed",
+        "+30% plant work speed",
+        "+10% plant harvest yield",
+        "-1.0 beauty",
+        "-10.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+3 plants",
+          "+3 construction",
+          "+3 artistic",
+          "+30% construction speed",
+          "+30% plant work speed",
+          "+10% plant harvest yield",
+          "-1.0 beauty",
+          "-10.00% social impact"
+        ]
+      },
+      "defName": "FT_Woodchucker",
+      "name": "woodchucker",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a wrecking ball! he can push through building material like it's not even there. he really doesn't know his own strength, often breaking things during construction.",
+      "stats": [
+        "+3 melee",
+        "+3 mining",
+        "+1 construction",
+        "+50% construction speed",
+        "+20% mining speed",
+        "+20% deep drilling speed",
+        "+20.00% Arrest success chance",
+        "-10% construct success chance",
+        "-10% repair success chance"
+      ],
+      "conflicts": [
+        "wimp",
+        "frailback",
+        "perfectionist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "wimp",
+          "frailback",
+          "perfectionist"
+        ],
+        "stats": [
+          "+3 melee",
+          "+3 mining",
+          "+1 construction",
+          "+50% construction speed",
+          "+20% mining speed",
+          "+20% deep drilling speed",
+          "+20.00% Arrest success chance",
+          "-10% construct success chance",
+          "-10% repair success chance"
+        ]
+      },
+      "defName": "FT_WreckingBall",
+      "name": "wreckingball",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a perfectionist with a passion for art. he is great at construction but takes longer to complete tasks because he puts too much effort into making everything perfect.",
+      "stats": [
+        "+4 construction",
+        "+4 artistic",
+        "+20% construct success chance",
+        "+20% repair success chance",
+        "-20% construction speed",
+        "-10% general labor speed",
+        "-10% smoothing speed"
+      ],
+      "conflicts": [
+        "stupid",
+        "oblivious",
+        "blitz",
+        "wreckingball"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "stupid",
+          "oblivious",
+          "blitz",
+          "wreckingball"
+        ],
+        "stats": [
+          "+4 construction",
+          "+4 artistic",
+          "+20% construct success chance",
+          "+20% repair success chance",
+          "-20% construction speed",
+          "-10% general labor speed",
+          "-10% smoothing speed"
+        ]
+      },
+      "defName": "FT_Perfectionist",
+      "name": "perfectionist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has an iron fist! he can punch through foes like they are not even there. Timmy has a passion for melee combat and dislikes ranged weapons.",
+      "stats": [
+        "Shoot frenzy inspiration disabled.",
+        "+4 melee",
+        "-4 shooting",
+        "+3.00 melee DPS",
+        "+10.0 melee hit chance",
+        "+20.00% Arrest success chance"
+      ],
+      "conflicts": [
+        "brawler",
+        "carefulshooter",
+        "trigger-happy",
+        "wimp",
+        "bandolier",
+        "pooraim",
+        "steadyaim",
+        "greataim",
+        "gunnut",
+        "frailback"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Fallout Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "brawler",
+          "carefulshooter",
+          "trigger-happy",
+          "wimp",
+          "bandolier",
+          "pooraim",
+          "steadyaim",
+          "greataim",
+          "gunnut",
+          "frailback"
+        ],
+        "stats": [
+          "Shoot frenzy inspiration disabled.",
+          "+4 melee",
+          "-4 shooting",
+          "+3.00 melee DPS",
+          "+10.0 melee hit chance",
+          "+20.00% Arrest success chance"
+        ]
+      },
+      "defName": "FT_IronFist",
+      "name": "ironfist",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 2000,
+      "removePrice": 1000,
+      "degree": 0
     }
   ],
   "races": [
@@ -2174,7 +5498,493 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Probably not what some men look for when they want a tall muscle mommy to pound them senseless, [NamePending] are quite dissimilar to humans. More often than not, most are disappointed by their lack of “typical feminine qualities” like breasts and freaked out by the female's ability to unhinge their jaws to devour their own and each other's fertilized eggs. If one seeks an early death: touch a stranger's horns and receive a greeting head-first.\n\nA race of humanoid aliens descended from a line of avian and reptilian ancestry, their biology could be considered barely compatible with baseline humans. [NamePending] hail from a matriarchal society from the planet Erinia, with the females being tall, muscular and domineering over the smaller, frail and meek males. Females are typically on the search for multiple male mates to ravage during rutting season and males are almost always on the mend.",
+      "defName": "ERN_Azaphrae",
+      "enabled": true,
+      "name": "Azaphrae",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+20% Flammability",
+          "+$2000 Market value",
+          "+4.60 Move speed",
+          "+12.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+25% Mental break threshold",
+          "+80% Global learning factor",
+          "+80.00% Negotiation ability",
+          "+80.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of humanoids that resemble spiders and are typically found in the Underdark.",
+      "defName": "O21_FR_Chitine",
+      "enabled": true,
+      "name": "Chitine",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+5.20 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+115% Psychic sensitivity",
+          "+80% Mining speed",
+          "+2.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Drow, also known as dark elves, deep elves, night elves, or sometimes \"The Ones Who Went Below\" on the surface, were a dark-skinned sub-race of elves that predominantly lived in the Underdark. They were hated and feared due to their cruelty, though some non-evil and an even smaller number of good drow existed.",
+      "defName": "O21_FR_DarkElf",
+      "enabled": true,
+      "name": "Dark Elf",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.20 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+35 Leather amount",
+          "+3 Honor value",
+          "+200% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Dwarves, sometimes called the Stout Folk, were a natural humanoid race common throughout parts of Toril as well as Abeir. Dwarves were a tough, tradition-abiding folk known for their strong martial traditions and beautiful craftsmanship.",
+      "defName": "O21_FR_Dwarf",
+      "enabled": true,
+      "name": "Dwarf",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+20% Flammability",
+          "+$2000 Market value",
+          "+5.00 Move speed",
+          "+2.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+20% Mental break threshold",
+          "+80% Global learning factor",
+          "+150% Animal gather speed",
+          "+150% Plant work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A race of reclusive giant-kin, usually they prefer to avoid contact with other sentient races making them a very rare sight.",
+      "defName": "O21_FR_Firbolg",
+      "enabled": true,
+      "name": "Firbolg",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+4.80 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+110% Psychic sensitivity",
+          "+110% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The gith were a race of humanoids who had been enslaved by mind flayers for countless generations. Some sages claimed that they were once descended from humans, while others maintained that their original race was in fact unknown. After breaking free from their enslavement, philosophical differences led to a bitter internal conflict, which divided the gith into two main different races at constant odds with each other: the githyanki and the githzerai.",
+      "defName": "O21_FR_Gith",
+      "enabled": true,
+      "name": "Gith",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+4.20 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+100% Psychic sensitivity",
+          "+120% Mining speed",
+          "+120% Global work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Goblins were a race of small and numerous goblinoids common throughout Toril, often living in underground caverns near the surface known as lairs. The race was often, though not always, dominated by other goblinoids, most commonly hobgoblins. Goblins may have, in fact, been initially created by this related race to serve as scouts and infiltrators.",
+      "defName": "O21_FR_Goblin",
+      "enabled": true,
+      "name": "Goblin",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.00 Move speed",
+          "+16.0C Minimum comfortable temperature",
+          "+26.0C Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+3 Honor value",
+          "+115% Hunger rate multiplier",
+          "+120% Hunting stealth"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Also known as Hin, or the \"quick folk\" amongst themselves, Halflings are small humanoid creatures, very similar in appearance to Humans, but around half their size.",
+      "defName": "O21_FR_Halfling",
+      "enabled": true,
+      "name": "Halfling",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+4.80 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+100% Psychic sensitivity",
+          "+115% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Half-orcs were humanoids born of both human and orc ancestry by a multitude of means. Having the combined physical power of their orcish ancestors with the agility of their humans ones, half-orcs were formidable individuals. Though they were often shunned in both human and orcish society for different reasons, half-orcs have proven themselves from time to time as worthy heroes and dangerous villains. Their existence implied an interesting backstory that most would not like to dwell on.",
+      "defName": "O21_FR_HalfOrc",
+      "enabled": true,
+      "name": "Half-Orc",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+4.50 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+100% Psychic sensitivity",
+          "+120% Mining speed",
+          "+90% Global work speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Hobgoblins are a larger, stronger, smarter, and more menacing form of goblinoids than goblins, but not as powerful as bugbears. It is believed they may have created the latter two races.",
+      "defName": "O21_FR_Hobgoblin",
+      "enabled": true,
+      "name": "Hobgoblin",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+4.80 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+100% Psychic sensitivity",
+          "+100% Mining speed",
+          "+7% Hunger rate multiplier"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Illithids or \"Mind Flayers\" were humanoid in appearance but with an octopus-like, ridged head with four tentacles surrounding a lamprey-like mouth. They were warm-blooded amphibians, whose blood had a silvery-white color.\n\nTheir hands had long, reddish fingers and lacked the index finger, and their feet were two-toed and webbed. Illithid eyes were extremely sensitive to bright light, and they considered it painful, a characteristic that some githyanki scholars attributed to the fact that their alien anatomy focused light in a strange way. Their vision was also more sensitive to the recognition of geometric patterns than that of other humanoids.",
+      "defName": "O21_FR_Illithid",
+      "enabled": true,
+      "name": "Illithid",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+50% Flammability",
+          "+$2000 Market value",
+          "+4.60 Move speed",
+          "-20.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+100% Psychic sensitivity",
+          "+40% Hunger rate multiplier"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Killoren were a relatively new and uncommon race of fey. It was unknown whether they were created by a deity or were spontaneously created by nature itself.",
+      "defName": "O21_FR_Killoren",
+      "enabled": true,
+      "name": "Killoren",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+35.00 Mass",
+          "+10% Flammability",
+          "+$1500 Market value",
+          "+4.30 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+100% Psychic sensitivity",
+          "+20.0% Armor - Blunt",
+          "+35.0% Armor - Sharp",
+          "+15.0% Armor - Heat",
+          "+120% Global work speed",
+          "+120% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Aggressive, xenophobic, yet industrious small humanoid creatures, kobolds are noted for their skill at building traps and preparing ambushes.",
+      "defName": "O21_FR_Kobold",
+      "enabled": true,
+      "name": "Kobold",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+5.20 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+115% Psychic sensitivity",
+          "+80% Mining speed",
+          "+2.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Moon elves, also known as Teu-tel-quessir in the elven language or as silver elves, were the most common of all the elven subraces. More tolerant of humans than other elves, moon elves were the ancestors of most half-elves.",
+      "defName": "O21_FR_MoonElf",
+      "enabled": true,
+      "name": "Moon Elf",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+4.00 Move speed",
+          "+4.0C Minimum comfortable temperature",
+          "+32.0C Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+130% Mining speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Orcs were a race of humanoids that had been a threat to the civilized cultures of Toril, particularly Faerûn, for as long as any could remember. This changed somewhat in the years preceding and immediately after the Spellplague, when a horde of mountain orcs under the command of King Obould Many-Arrows unified into a single kingdom, one that was remarkably civilized.",
+      "defName": "O21_FR_Orc",
+      "enabled": true,
+      "name": "Orc",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+5.20 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+115% Psychic sensitivity",
+          "+80% Mining speed",
+          "+2.0 Beauty",
+          "+120% Global learning factor",
+          "+120.00% Negotiation ability",
+          "+120.00% Trade price improvement"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The sun elves, also sometimes known as gold elves, sometimes as high elves due to their stereotypically elitist ways, and Ar-tel-quessir in their own language were a subrace of high elves historically rare in Faerûn due to the Retreat, in which the majority abandoned the continent for Evermeet, although during the Era of Upheaval they began returning to the mainland. Haughty and arrogant, sun elves typically felt themselves superior to most other races, including other Tel-quessir.",
+      "defName": "O21_FR_SunElf",
+      "enabled": true,
+      "name": "Sun Elf",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+5.50 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+20 Leather amount",
+          "+100% Psychic sensitivity",
+          "+40% Hunger rate multiplier"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Tabaxi also known as jaguar people or cat-men, were a race of feline humanoids native to the jungles of Maztica.",
+      "defName": "O21_FR_Tabaxi",
+      "enabled": true,
+      "name": "Tabaxi",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+20% Flammability",
+          "+$2000 Market value",
+          "+4.60 Move speed",
+          "+12.0C Minimum comfortable temperature",
+          "+40.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+45% Mental break threshold",
+          "+110% Global learning factor",
+          "+115.00% Negotiation ability",
+          "+120.00% Social impact"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Tieflings were human-based planetouched, native outsiders that were infused with the touch of the fiendish planes, most often through descent from fiends—demons, Yugoloths, devils, evil deities, and others who had bred with humans. Tieflings were known for their cunning and personal allure, which made them excellent deceivers as well as inspiring leaders when prejudices were laid aside.",
+      "defName": "O21_FR_Tiefling",
+      "enabled": true,
+      "name": "Tiefling",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+90.00 Mass",
+          "+30% Flammability",
+          "+$2500 Market value",
+          "+4.60 Move speed",
+          "-100.0C Minimum comfortable temperature",
+          "+100.0C Maximum comfortable temperature",
+          "+300% Pain shock threshold",
+          "+0 Leather amount",
+          "+0 Meat amount",
+          "+0% Psychic sensitivity",
+          "+0% Toxic sensitivity",
+          "+40.0% Armor - Blunt",
+          "+35.0% Armor - Sharp",
+          "+15.0% Armor - Heat",
+          "+120% Global work speed",
+          "+10000% Immunity gain speed"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "The warforged were built to fight in the Last War. The first warforged were mindless automatons, but House Cannith devoted vast resources to improving these steel soldiers. An unexpected breakthrough produced fully sentient soldiers, blending organic and inorganic materials. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond the war. A warforged can be a steadfast ally, a cold-hearted killing machine, or a visionary in search of purpose and meaning.",
+      "defName": "O21_FR_Warforged",
+      "enabled": true,
+      "name": "Warforged",
+      "price": 2000
+    },
+    {
+      "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+30% Flammability",
+          "+$2000 Market value",
+          "+5.20 Move speed",
+          "+8.0C Minimum comfortable temperature",
+          "+28.0C Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+115% Psychic sensitivity",
+          "+80% Mining speed",
+          "+2.0 Beauty"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "Wood elves, also known as copper elves, or Or-tel-quessir were the most populous of the elven races. Wood elves saw themselves as guardians of the Tel-quessir forest homes that were largely abandoned after the Crown Wars and before the Retreat, but unlike most elves they did not view themselves as a people apart from the rest of Faerûn.",
+      "defName": "O21_FR_WoodElf",
+      "enabled": true,
+      "name": "Wood Elf",
+      "price": 2000
     }
   ]
 }

@@ -6319,7 +6319,7 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
-  "TableOrgans": {
+  "VFE_RugGrand": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6336,10 +6336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Furniture Expanded - Art",
     "KarmaType": null
   },
-  "TableProsthetics": {
+  "VFE_RugLarge": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6356,10 +6356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Furniture Expanded - Art",
     "KarmaType": null
   },
-  "AdvancedPowerArm": {
+  "VFE_RugSmall": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6376,10 +6376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Furniture Expanded - Art",
     "KarmaType": null
   },
-  "AdvancedPowerClaw": {
+  "HologramBase": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6396,10 +6396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Furniture Expanded - Art",
     "KarmaType": null
   },
-  "AdvancedBionicHand": {
+  "VFE_DecorativePlantPot": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6416,10 +6416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Furniture Expanded - Art",
     "KarmaType": null
   },
-  "AdvancedBionicArm": {
+  "VFE_Plinth": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6436,10 +6436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Furniture Expanded - Art",
     "KarmaType": null
   },
-  "AdvancedBionicLeg": {
+  "VFE_Obelisk": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6456,10 +6456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Furniture Expanded - Art",
     "KarmaType": null
   },
-  "AdvancedBionicFoot": {
+  "VFE_Pillar": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6476,10 +6476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Furniture Expanded - Art",
     "KarmaType": null
   },
-  "AdvancedBionicEar": {
+  "VFE_Relief": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6496,10 +6496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Furniture Expanded - Art",
     "KarmaType": null
   },
-  "AdvancedBionicJaw": {
+  "VFE_Monument": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6516,10 +6516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Furniture Expanded - Art",
     "KarmaType": null
   },
-  "AdvancedBionicEye": {
+  "VFE_StatueGrand": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6536,10 +6536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Furniture Expanded - Art",
     "KarmaType": null
   },
-  "AdvancedBionicSpine": {
+  "VFE_StatueLarge": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6556,10 +6556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Furniture Expanded - Art",
     "KarmaType": null
   },
-  "ExoskeletonSuit": {
+  "VFE_Carving": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6576,10 +6576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Furniture Expanded - Art",
     "KarmaType": null
   },
-  "MuscleStimulator": {
+  "VFE_StatueSmall": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6596,10 +6596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Furniture Expanded - Art",
     "KarmaType": null
   },
-  "TacticalCorneaImplant": {
+  "VFE_Pottery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6616,10 +6616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Furniture Expanded - Art",
     "KarmaType": null
   },
-  "ConstructorCore": {
+  "VFE_ArchotechSculpture": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6636,10 +6636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Furniture Expanded - Art",
     "KarmaType": null
   },
-  "FarmerCore": {
+  "VAE_Headgear_HAZMATMask": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6656,10 +6656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "MinerCore": {
+  "VAE_Headgear_GhillieHood": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6676,10 +6676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "DoctorCore": {
+  "VAE_Headgear_BallisticGoggles": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6696,10 +6696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "DiplomatCore": {
+  "VAE_Headgear_NightVisionGoggles": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6716,10 +6716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "SteelArm": {
+  "VAE_Headgear_Balaclava": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6736,10 +6736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "EyePatch": {
+  "VAE_Apparel_HeavyMarineArmor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6756,10 +6756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "HookHand": {
+  "VAE_Headgear_HeavyMarineHelmet": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6776,10 +6776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "PegLeg": {
+  "VAE_Apparel_TrooperArmor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6796,10 +6796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "WoodenFoot": {
+  "VAE_Headgear_TrooperHelmet": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6816,10 +6816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "EarBandage": {
+  "VAE_Headgear_StoneWarMask": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6836,10 +6836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "PowerArm": {
+  "VAE_Apparel_WoodenArmor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6856,7 +6856,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
   "PowerClaw": {
@@ -6919,7 +6919,7 @@
     "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
-  "BionicHand": {
+  "VAE_Apparel_PlateHelmet": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6936,10 +6936,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "BionicFoot": {
+  "VAE_Apparel_Chainmail": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6956,7 +6956,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
   "BionicEar": {
@@ -6979,7 +6979,7 @@
     "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
-  "BionicJaw": {
+  "VAE_Apparel_Chestplate": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6996,10 +6996,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "SilentJaw": {
+  "VAE_Apparel_PlateShoulderpads": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7016,7 +7016,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
   "BionicSpine": {
@@ -7059,7 +7059,7 @@
     "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
-  "MedicalRib": {
+  "VAE_Apparel_LightPlateArmor": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7076,10 +7076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "DruggedRib": {
+  "VAE_Apparel_QuiltedVest": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7096,10 +7096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "AdrenalineRib": {
+  "VAE_Apparel_Gambeson": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7116,10 +7116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "PainkillerRib": {
+  "VAE_Apparel_HAZMATSuit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7136,10 +7136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "Leg": {
+  "VAE_Apparel_AdvancedVest": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7156,10 +7156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "Arm": {
+  "VAE_Apparel_GhillieSuit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7176,10 +7176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "Stomach": {
+  "VAE_Apparel_BulletproofVest": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7196,7 +7196,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
   "Heart": {
@@ -7279,7 +7279,7 @@
     "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
-  "Eye": {
+  "VAE_Handwear_MarineGloves": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7296,10 +7296,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "Nose": {
+  "VAE_Handwear_PlateGloves": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7316,10 +7316,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "Ear": {
+  "VAE_Footwear_MarineBoots": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7336,10 +7336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "Jaw": {
+  "VAE_Footwear_PlateBoots": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7356,16 +7356,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Armour Expanded",
     "KarmaType": null
   },
-  "GoldenEye": {
+  "VWEL_Gun_SalvagedLaserSniperRifle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -7376,16 +7376,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Weapons Expanded - Laser",
     "KarmaType": null
   },
-  "ArtificialNose": {
+  "VWEL_Gun_SalvagedLaserShotgun": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -7396,7 +7396,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Weapons Expanded - Laser",
     "KarmaType": null
   },
   "CochlearImplant": {
@@ -7419,13 +7419,13 @@
     "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
-  "HydraulicJaw": {
+  "VWEL_Gun_SalvagedLaserRifle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -7436,16 +7436,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Weapons Expanded - Laser",
     "KarmaType": null
   },
-  "LightReceptor": {
+  "VWEL_Gun_SalvagedLaserPistol": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -7456,16 +7456,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Weapons Expanded - Laser",
     "KarmaType": null
   },
-  "SimpleProstheticHand": {
+  "VWEL_Gun_TeslaGun": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -7476,16 +7476,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Weapons Expanded - Laser",
     "KarmaType": null
   },
-  "SimpleProstheticFoot": {
+  "VWEL_Gun_LaserMinigun": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -7496,7 +7496,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Weapons Expanded - Laser",
     "KarmaType": null
   },
   "SimpleProstheticLeg": {
@@ -7539,13 +7539,13 @@
     "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
-  "ArtificialPelvis": {
+  "VWEL_Gun_LaserSniperRifle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -7556,16 +7556,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Weapons Expanded - Laser",
     "KarmaType": null
   },
-  "ArtificialClavicle": {
+  "VWEL_Gun_LaserShotgun": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -7576,16 +7576,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Weapons Expanded - Laser",
     "KarmaType": null
   },
-  "BrainStimulator": {
+  "VWEL_Gun_LaserRifle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -7596,16 +7596,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Weapons Expanded - Laser",
     "KarmaType": null
   },
-  "SurrogateLung": {
+  "VWEL_Gun_LaserSMG": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -7616,16 +7616,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Weapons Expanded - Laser",
     "KarmaType": null
   },
-  "SurrogateStomach": {
+  "VWEL_Gun_LaserPistol": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -7636,16 +7636,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Weapons Expanded - Laser",
     "KarmaType": null
   },
-  "SurrogateLiver": {
+  "VWEL_LaserSword": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": false,
+    "IsMelee": true,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -7656,10 +7656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Weapons Expanded - Laser",
     "KarmaType": null
   },
-  "SurrogateKidney": {
+  "VCE_RawTomatoes": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7676,7 +7676,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
   "SimpleProstheticHeart": {
@@ -7699,7 +7699,7 @@
     "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
-  "AIChip": {
+  "VCE_RawBeets": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7716,7 +7716,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
   "Joywire": {
@@ -7759,7 +7759,7 @@
     "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
-  "SyntheticLung": {
+  "VCE_RawCabbage": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7776,7 +7776,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
   "BionicStomach": {
@@ -7799,7 +7799,7 @@
     "Mod": "Expanded Prosthetics and Organ Engineering",
     "KarmaType": null
   },
-  "SyntheticLiver": {
+  "VCE_RawEggplant": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7816,10 +7816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "SyntheticKidney": {
+  "VCE_RawPeas": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7836,7 +7836,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
   "BionicHeart": {
@@ -9599,7 +9599,7 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
-  "Leather_Tailteeth": {
+  "VCE_RawPepper": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9616,10 +9616,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "Oyster": {
+  "VCE_RawPumpkin": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9636,10 +9636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "Pearl": {
+  "VCE_RawOnion": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9656,10 +9656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "Sduiggles": {
+  "VCE_RawOrange": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9676,10 +9676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "Seasnake": {
+  "VCE_RawBanana": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9696,10 +9696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "Mashgon": {
+  "VCE_Bearberry": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9716,10 +9716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "Blueblade": {
+  "VCE_RawPricklyPear": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9736,10 +9736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "Tailteeth": {
+  "VCE_RawPear": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9756,10 +9756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "Meat_Sduiggles": {
+  "VCE_RawPrunes": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9776,10 +9776,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "Meat_Seasnake": {
+  "VCE_RawPlum": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9796,10 +9796,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "Meat_Mashgon": {
+  "VCE_RawCherry": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9816,10 +9816,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "Meat_Blueblade": {
+  "VCE_RawPeach": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9836,10 +9836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
-  "Meat_Tailteeth": {
+  "VCE_RawApple": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9856,7 +9856,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "FishIndustry",
+    "Mod": "Vanilla Plants Expanded",
     "KarmaType": null
   },
   "LWM_VeryBigShelf": {
@@ -10139,7 +10139,7 @@
     "Mod": "LWM's Deep Storage",
     "KarmaType": null
   },
-  "denture": {
+  "VHE_TableBarber": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -10156,7 +10156,687 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Vanilla Hair Expanded",
+    "KarmaType": null
+  },
+  "ERN_EggNuzoxFertilized": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Erin's Azaphrae",
+    "KarmaType": null
+  },
+  "ERN_Nuzox": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Erin's Azaphrae",
+    "KarmaType": null
+  },
+  "ERN_Azaphrae": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Erin's Azaphrae",
+    "KarmaType": null
+  },
+  "rail_sniper": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Rail Weapons Revived [1.1->1.3]",
+    "KarmaType": null
+  },
+  "rail_rifle": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Rail Weapons Revived [1.1->1.3]",
+    "KarmaType": null
+  },
+  "rail_pistol": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Rail Weapons Revived [1.1->1.3]",
+    "KarmaType": null
+  },
+  "laser_sniper": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Laser Weapons Revived [1.1->1.3]",
+    "KarmaType": null
+  },
+  "laser_rifle": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Laser Weapons Revived [1.1->1.3]",
+    "KarmaType": null
+  },
+  "laser_pistol": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Laser Weapons Revived [1.1->1.3]",
+    "KarmaType": null
+  },
+  "CocaCola": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Coca Cola And Pepsi Mod",
+    "KarmaType": null
+  },
+  "Pepsi": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Coca Cola And Pepsi Mod",
+    "KarmaType": null
+  },
+  "O21_FR_Chitine": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_DarkElf": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_Dwarf": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_Firbolg": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_Gith": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_Goblin": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_Halfling": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_HalfOrc": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_Hobgoblin": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_Building_ElderBrainPool": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_Illithid_HumanoidBrain": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_Item_ElderBrain": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": false,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_Illithid": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_Killoren": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_Kobold": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_MoonElf": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_Orc": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_SunElf": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_Tabaxi": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_Tiefling": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_Warforged": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_WoodElf": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
+  },
+  "Meat_ERN_Azaphrae": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Erin's Azaphrae",
     "KarmaType": null
   }
 }
