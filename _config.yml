@@ -71,6 +71,6 @@ mods:
 remote_theme: SirRandoo/Type-on-Strap
 plugins:
   -
-  - jekyll-ceo-tag
+  
 
 
