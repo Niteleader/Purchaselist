@@ -29,7 +29,7 @@ p {
 
 .tab {
     overflow: hidden;
-    border: 1px solid #1beb0c;
+    border: 1px solid #0c10eb;
     background-color: #0c090a;
 }
 
@@ -41,7 +41,7 @@ p {
     padding: 12px 12px;
     transition: 0.3s;
     font-size: 0.75em;
-    color: #1beb0c;
+    color: #0c10eb;
 }
 
 .tab button:hover {
