@@ -12,7 +12,7 @@ h1 {
 }
 
 h2 {
-  color: #1beb0c;
+  color: #0c10eb;
 }
 
 ul {    color: #1beb0c;
@@ -24,7 +24,7 @@ body {
 }
 
 p {
-    color: #1beb0c;
+    color: #0c10eb;
 }
 
 .tab {
@@ -79,7 +79,7 @@ p {
 
 table {
     display: table;
-    color: #1beb0c;
+    color: #0c10eb;
 }
 
 table tbody tr:hover {
