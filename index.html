@@ -9,7 +9,7 @@ title: Store
 <script src="{{- 'assets/js/filter.js' | relative_url -}}"></script>
 <script src="https://www.kryogenix.org/code/browser/sorttable/sorttable.js"></script>
 
-<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
 
 {%- assign itemsForDisplay = '' | split: ',' -%}
 {%- assign eventsForDisplay = site.data.StoreIncidents.incitems | where_exp: "incident", "incident.price > 0" | sort: "abr" -%}
