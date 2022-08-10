@@ -67,7 +67,7 @@ mods:
   # Whether or not the mod list will display the mod's author(s).
   author: true
 
-# Build settings
+  # Build settings
 remote_theme: SirRandoo/Type-on-Strap
 plugins:
 -
