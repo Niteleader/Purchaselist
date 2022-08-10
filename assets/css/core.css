@@ -45,7 +45,7 @@ p {
 }
 
 .tab button:hover {
-    background-color: #050df7;
+    background-color: #f70542;
 }
 
 .tabContent {
@@ -83,7 +83,7 @@ table {
 }
 
 table tbody tr:hover {
-    background-color: #0b23d9;
+    background-color: #f70542;
 }
 
 th {
