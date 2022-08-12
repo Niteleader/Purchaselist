@@ -107,7 +107,7 @@
 	},
 	{
 		"abr": "animaltame",
-		"price": 150,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -152,7 +152,7 @@
 	},
 	{
 		"abr": "ambrosiasprout",
-		"price": 150,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
@@ -202,7 +202,7 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 600,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
@@ -377,7 +377,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 3000,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
